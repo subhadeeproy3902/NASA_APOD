@@ -1,6 +1,8 @@
 
   # NASA Astronomy Picture of the Day 🌌
 
+  Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
+
 ![NASA APOD](https://apod.nasa.gov/apod/image/2404/CoronaExmouth_Hart_1920.jpg)
 
 ## Detailed View of a Solar Eclipse Corona
