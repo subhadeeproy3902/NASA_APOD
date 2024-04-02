@@ -1,7 +1,7 @@
 import { writeFileSync } from "fs";
 
 async function getAPOD() {
-  const apiKey = process.env.NASA_API_KEY || "DEMO_KEY";
+  const apiKey = process.env.NASA_API_KEY || undefined;
   const url = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
   try {
@@ -36,7 +36,7 @@ async function updateREADME(apodData: any) {
   const formatterDate = new Intl.DateTimeFormat("en-US", {
     dateStyle: "long",
   });
-  const timestamp = formatterDate.format(new Date());
+  const timestamp = new Date().toLocaleString();
 
   const content = `
   # NASA Astronomy Picture of the Day 🌌
