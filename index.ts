@@ -1,7 +1,7 @@
 import { writeFileSync } from "fs";
 
 async function getAPOD() {
-  const apiKey = process.env.NASA_API_KEY || undefined;
+  const apiKey = process.env.API_KEY as string;
   const url = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
   try {
