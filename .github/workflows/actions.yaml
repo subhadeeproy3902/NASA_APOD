@@ -2,7 +2,7 @@ name: Daily Readme Update
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 2,6 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
