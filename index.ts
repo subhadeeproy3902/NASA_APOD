@@ -1,7 +1,7 @@
 import { writeFileSync } from "fs";
 
 async function getAPOD() {
-  const apiKey = process.env.API_KEY as string;
+  const apiKey = process.env.APIKEY as string;
   const url = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}`;
 
   try {
@@ -51,7 +51,7 @@ ${formattedDate}
 
 ### Explanation: 
 
-${apodData.explanation}
+${apodData.explanation.split('NASA Coverage').join('\n### NASA Coverage')}
 
 > _Last Updated: ${timestamp} (in GMT)_
 `;
