@@ -2,7 +2,7 @@ name: Daily Readme Update
 
 on:
   schedule:
-    - cron: "0 2,6 * * *"
+    - cron: "30 2,6,8,9,10,12 * * *"
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -17,7 +17,7 @@ jobs:
 
       - name: Update regularly
         env:
-          APIKEY: ${{ secrets.API_KEY }}
+          API_KEY: ${{ secrets.API_KEY }}
         run: |
           bun run dev
           git config --global user.email "subha9.5roy350@gmail.com"
