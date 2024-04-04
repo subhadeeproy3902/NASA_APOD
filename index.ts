@@ -51,7 +51,11 @@ ${formattedDate}
 
 ### Explanation: 
 
-${apodData.explanation}
+${
+  apodData && apodData.explanation
+  ? apodData.explanation.split('NASA Coverage').join('\n### NASA Coverage')
+  : "No explanation available."
+}
 
 > _Last Updated: ${timestamp} (in GMT)_
 `;
