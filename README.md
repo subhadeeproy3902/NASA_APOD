@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_2000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_3989.jpg)
 
-## The Cigar Galaxy from Hubble and Webb
+## Filaments of the Vela Supernova Remnant
 
 16th April 2024
 
 ### Explanation: 
 
-Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD
+The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday's Eclipse Imagery: Notable Submissions to APOD
 
-> _Last Updated: 4/16/2024, 2:38:22 AM (in GMT)_
+> _Last Updated: 4/16/2024, 4:38:29 AM (in GMT)_
