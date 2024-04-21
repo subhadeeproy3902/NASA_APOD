@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2404/tse2024Dobbs.jpg)
+![NASA APOD](undefined)
 
-## Diamonds in the Sky
+## Perijove 16: Passing Jupiter
 
 21st April 2024
 
 ### Explanation: 
 
-When the dark shadow of the Moon raced across North America on April 8, sky watchers along the shadow's narrow central path were treated to a total solar eclipse. During the New Moon's shadow play diamonds glistened twice in the eclipse-darkened skies. The transient celestial jewels appeared immediately before and after the total eclipse phase. That's when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon's edge, creating the appearance of a shiny diamond set in a dark ring. This dramatic timelapse composite from north-central Arkansas captures both diamond ring moments of this total solar eclipse. The diamond rings are separated by the ethereal beauty of the solar corona visible during totality.
+Watch Juno zoom past Jupiter.  NASA's robotic spacecraft Juno is continuing on its now month-long, highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 16, the sixteenth time that Juno passed near Jupiter since it arrived in mid-2016. Each perijove passes near a slightly different part of Jupiter's cloud tops.  This color-enhanced video has been digitally composed from 21 JunoCam still images, resulting in a 125-fold time-lapse. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  As Juno moves away, the remarkable dolphin-shaped cloud is visible.  After the perijove, Jupiter recedes into the distance, now displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.
 
-> _Last Updated: 4/21/2024, 2:40:18 AM (in GMT)_
+> _Last Updated: 4/21/2024, 4:38:47 AM (in GMT)_
