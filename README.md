@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2405/DSC_6363Panorama-2.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2405/AuroraStartrails_chiragupreti.jpg)
 
-## Aurora Banks Peninsula
+## North Celestial Aurora
 
 18th May 2024
 
 ### Explanation: 
 
-This well-composed composite panoramic view looks due south from Banks Peninsula near Christchurch on New Zealand's South Island. The base of a tower-like rocky sea stack is awash in the foreground, with stars of the Southern Cross at the top of the frame and planet Earth's south celestial pole near center. Still, captured on May 11, vibrant aurora australis dominate the starry southern sea and skyscape. The shimmering southern lights were part of extensive auroral displays that entertained skywatchers in northern and southern hemispheres around planet Earth, caused by intense geomagnetic storms. The extreme spaceweather was triggered by the impact of coronal mass ejections launched from powerful solar active region AR 3664.   AuroraSaurus: Report your aurora observations
+Graceful star trail arcs reflect planet Earth's daily rotation in this colorful night skyscape. To create the timelapse composite, on May 12 consecutive exposures were recorded with a camera fixed to a tripod on the shores of the Ashokan Reservoir, in the Catskills region of New York, USA. North star Polaris is near the center of the star trail arcs. The broad trail of a waxing crescent Moon is on the left, casting a strong reflection across the reservoir waters. With intense solar activity driving recent geomagnetic storms, the colorful aurora borealis or northern lights, rare to the region, shine under Polaris and the north celestial pole.   AuroraSaurus: Report your aurora observations
 
-> _Last Updated: 5/18/2024, 2:41:28 AM (in GMT)_
+> _Last Updated: 5/18/2024, 4:38:02 AM (in GMT)_
