@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2405/Cg4Galaxy_CtioRector_1476.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2405/AuroraSweden_Strand_1500.jpg)
 
-## CG4: The Globule and the Galaxy
+## Green Aurora over Sweden
 
 22nd May 2024
 
 ### Explanation: 
 
-Can a gas cloud eat a galaxy?  It's not even close.  The "claw" of this odd looking "creature" in the featured photo is a gas cloud known as a cometary globule.  This globule, however, has ruptured.  Cometary globules are typically characterized by dusty heads and elongated tails.  These features cause cometary globules to have visual similarities to comets, but in reality they are very much different.  Globules are frequently the birthplaces of stars, and many show very young stars in their heads. The reason for the rupture in the head of this object is not yet known. The galaxy to the left of the globule is huge, very far in the distance, and only placed near CG4 by chance superposition.
+It was bright and green and stretched across the sky. This striking aurora display was captured in 2016 just outside of Östersund, Sweden. Six photographic fields were merged to create the featured panorama spanning almost 180 degrees.  Particularly striking aspects of this aurora include its sweeping arc-like shape and its stark definition.  Lake Storsjön is seen in the foreground, while several familiar constellations and the star Polaris are visible through the aurora, far in the background.  Coincidently, the aurora appears to avoid the Moon visible on the lower left.  The aurora appeared a day after a large hole opened in the Sun's corona, allowing particularly energetic particles to flow out into the Solar System.  The green color of the aurora is caused by oxygen atoms recombining with ambient electrons high in the Earth's atmosphere.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
 
-> _Last Updated: 5/22/2024, 2:43:39 AM (in GMT)_
+> _Last Updated: 5/22/2024, 4:39:48 AM (in GMT)_
