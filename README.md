@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1409.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg)
 
-## Aurora over Karkonosze Mountains
+## Messier 66 Close Up
 
 13th June 2024
 
 ### Explanation: 
 
-It was the first time ever. At least, the first time this photographer had ever seen aurora from his home mountains.  And what a spectacular aurora it was. The Karkonosze Mountains in Poland are usually too far south to see any auroras.  But on the amazing night of May 10 - 11, purple and green colors lit up much of the night sky, a surprising spectacle that  also appeared over many mid-latitude locations around the Earth.  The featured image is a composite of six vertical exposures taken during the auroral peak. The futuristic buildings on the right are part of a meteorological observatory located on the highest peak of the Karkonosze Mountains.  The purple color is primarily due to Sun-triggered, high-energy electrons impacting nitrogen molecules in Earth's atmosphere.  Our Sun is reaching its maximum surface activity over the next two years, and although many more auroras are predicted, most will occur over regions closer to the Earth's poles.
+Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet.
 
-> _Last Updated: 6/13/2024, 2:46:50 AM (in GMT)_
+> _Last Updated: 6/13/2024, 4:40:08 AM (in GMT)_
