@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2406/heic1006a_M66.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2406/HaLRGB+v2Pugh.jpg)
 
-## Messier 66 Close Up
+## RCW 85
 
 14th June 2024
 
 ### Explanation: 
 
-Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet.
+From the 1960 astronomical catalog of Rodgers, Campbell and Whiteoak, emission region RCW 85 shines in southern night skies between bright stars Alpha and Beta Centauri. About 5,000 light years distant, the hazy interstellar cloud of glowing hydrogen gas and dust is faint. But detailed structures along well-defined rims within RCW 85 are traced in this cosmic skyscape composed of 28 hours of narrow and broadband exposures. Suggestive of dramatic shapes in other stellar nurseries where natal clouds of gas and dust are sculpted by energetic winds and radiation from newborn stars, the tantalizing nebula has been called the Devil's Tower. This telescopic frame would span around 100 light-years at the estimated distance of RCW 85.
 
-> _Last Updated: 6/14/2024, 2:47:09 AM (in GMT)_
+> _Last Updated: 6/14/2024, 4:39:45 AM (in GMT)_
