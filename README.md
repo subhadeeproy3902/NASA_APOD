@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard.jpg)
+![NASA APOD](undefined)
 
-## Prominences and Filaments on the Active Sun
+## Animation: Black Hole Destroys Star
 
 16th June 2024
 
 ### Explanation: 
 
-This colorized and digitally sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of planet-dwarfing active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspended in the active regions' strong magnetic fields, the filaments of plasma lofted beyond the Sun's edge appear as bright solar prominences. The large prominences seen near 4 o'clock, and just before 9 o'clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o'clock prominence is associated with the monster active region AR 3664 just rotating off the Sun's edge.
+What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator
 
-> _Last Updated: 6/16/2024, 2:48:40 AM (in GMT)_
+> _Last Updated: 6/16/2024, 4:38:43 AM (in GMT)_
