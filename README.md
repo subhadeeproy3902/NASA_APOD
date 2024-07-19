@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2407/M24-HaLRGB-RC51_2048.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2407/2024-07-11Pavel_2048p.jpg)
 
-## Messier 24: Sagittarius Star Cloud
+## Anticrepuscular Rays at the Planet Festival
 
 19th July 2024
 
 ### Explanation: 
 
-Unlike most entries in Charles Messier's famous catalog of deep sky objects, M24 is not a bright galaxy, star cluster, or nebula. It's a gap in nearby, obscuring interstellar dust clouds that allows a view of the distant stars in the Sagittarius spiral arm of our Milky Way galaxy. Direct your gaze through this gap with binoculars or small telescope and you are looking through a window over 300 light-years wide at stars some 10,000 light-years or more from Earth. Sometimes called the Small Sagittarius Star Cloud, M24's luminous stars are left of center in this gorgeous starscape.  Covering over 6 degrees or the width of 12 full moons in the constellation Sagittarius, the telescopic field of view includes dark markings B92 and B93 near the center of M24, along with other clouds of dust and glowing nebulae toward the center of the Milky Way.
+For some, these subtle bands of light and shadow stretched across the sky as the Sun set on July 11. Known as anticrepuscular rays, the bands are formed as a large cloud bank near the western horizon cast long shadows through the atmosphere at sunset. Due to the camera's perspective, the bands of light and shadow seem to converge toward the eastern (opposite) horizon at a point seen just above a 14th century hilltop castle near Brno, Czech Republic. In the foreground, denizens of planet Earth are enjoying the region's annual Planet Festival in the park below the Brno Observatory and Planetarium. And while crepuscular and anticrepuscular rays are a relatively common atmospheric phenomenon, this festival's 10 meter diameter inflatable spheres representing bodies of the Solar System are less often seen on planet Earth.
 
-> _Last Updated: 7/19/2024, 2:49:29 AM (in GMT)_
+> _Last Updated: 7/19/2024, 4:41:15 AM (in GMT)_
