@@ -13,4 +13,4 @@
 
 That's no moon. On the ground, that's the Lars Homestead in Tunisia. And that's not just any galaxy. That's the central band of our own Milky Way galaxy. Last, that's not just any meteor. It is a bright fireball likely from last year's Perseids meteor shower. The featured image composite combines consecutive exposures taken by the same camera from the same location.  This year's Perseids peak during the coming weekend is expected to show the most meteors after the first quarter moon sets, near midnight.  To best experience a meteor shower, you should have clear and dark skies, a comfortable seat, and patience.
 
-> _Last Updated: 8/5/2024, 6:43:03 AM (in GMT)_
+> _Last Updated: 8/5/2024, 8:41:30 AM (in GMT)_
