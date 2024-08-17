@@ -7,10 +7,10 @@
 
 ## Meteor Borealis
 
-16th August 2024
+17th August 2024
 
 ### Explanation: 
 
 A single exposure made with a camera pointed almost due north on August 12 recorded this bright Perseid meteor in the night sky west of Halifax, Nova Scotia, Canada. The meteor's incandescent trace is fleeting. It appears to cross the stars of the Big Dipper, famous northern asterism and celestial kitchen utensil, while shimmering curtains of aurora borealis, also known as the northern lights, dance in the night. Doubling the wow factor for night skywatchers near the peak of this year's Perseid meteor shower auroral activity on planet Earth was enhanced by geomagnetic storms. The intense space weather was triggered by flares from an active Sun.   Gallery: Perseid Meteor Shower 2024 and Aurorae
 
-> _Last Updated: 8/16/2024, 8:41:29 AM (in GMT)_
+> _Last Updated: 8/17/2024, 2:49:13 AM (in GMT)_
