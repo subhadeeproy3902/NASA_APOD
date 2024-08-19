@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_2047.jpg)
 
-## A Solar Prominence Eruption from SDO
+## IC 5146: The Cocoon Nebula
 
 19th August 2024
 
 ### Explanation: 
 
-One of the most spectacular solar sights is an erupting prominence. In 2011, NASA's Sun-orbiting Solar Dynamic Observatory spacecraft imaged an impressively large prominence erupting from the surface. The dramatic explosion was captured in ultraviolet light in the featured time lapse video covering 90 minutes, where a new frame was taken every 24 seconds.  The scale of the prominence is huge -- the entire Earth would easily fit under the flowing  curtain of hot gas.  A solar prominence is channeled and sometimes held above the Sun's surface by the Sun's magnetic field. A quiescent prominence typically lasts about a month and may erupt in a Coronal Mass Ejection (CME) expelling hot gas into the Solar System.  The energy mechanism that creates a solar prominence is a continuing topic of research.  Our Sun is again near solar maximum and so very active, featuring numerous erupting prominences and CMEs, one of which resulted in picturesque auroras just over the past week.
+Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.
 
-> _Last Updated: 8/19/2024, 2:51:18 AM (in GMT)_
+> _Last Updated: 8/19/2024, 4:40:27 AM (in GMT)_
