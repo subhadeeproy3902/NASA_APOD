@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2409/SunTriangle_Vanoni_960.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2409/MoonPleiades_Dyer_2048.jpg)
 
-## A Triangular Prominence Hovers Over the Sun
+## Quarter Moon and Sister Stars
 
 3rd September 2024
 
 ### Explanation: 
 
-Why is there a triangle hovering over the Sun?  Although the shape is unusual, the type of structure is not: it is part of an evolving solar prominence.  Looping magnetic fields on the Sun channel the flow of energetic particles, sometimes holding glowing gaseous structures aloft for months.  A prominence glows brightly because it contains particularly hot, dense, or opaque solar plasma. The surprising triangular structure occurred last week. Larger than our Earth, the iconic prominence was imaged by several solar photographers and documented by NASA's Solar Dynamic Observatory to form and violently dissipate in about a day. The featured image was captured in a color of red light emitted strongly by hydrogen.  Below, solar fibrils carpet the Sun's chromosphere, while the background sky is so faint in comparison that no stars are visible.  Our Sun's surface has been quite active this year.
+Nine days ago, two quite different sky icons were imaged rising together. Specifically, Earth's Moon shared the eastern sky with the sister stars of the Pleiades cluster, as viewed from Alberta, Canada.  Astronomical images of the well-known Pleiades often show the star cluster's alluring blue reflection nebulas, but here they are washed-out by the orange moonrise sky. The half-lit Moon, known as a quarter moon, is overexposed, although the outline of the dim lunar night side can be seen by illuminating earthshine, light first reflected from the Earth. The featured image is a composite of eight successive exposures with brightnesses adjusted to match what the human eye would see.  The Moon passes nearly -- or directly -- in front of the Pleaides once a month.
 
-> _Last Updated: 9/3/2024, 2:53:16 AM (in GMT)_
+> _Last Updated: 9/3/2024, 4:41:33 AM (in GMT)_
