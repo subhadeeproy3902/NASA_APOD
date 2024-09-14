@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2409/iss071e564695_4096.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2409/Moonalisa_base_corr.jpg)
 
-## Aurora Australis and the International Space Station
+## The Moona Lisa
 
 14th September 2024
 
 ### Explanation: 
 
-This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet's horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion's belt and the Orion Nebula are near the Earth's limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth's night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night
+Only natural colors of the Moon in planet Earth's sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci's most famous works of art.  Tonight: International Observe the Moon Night
 
-> _Last Updated: 9/14/2024, 2:56:34 AM (in GMT)_
+> _Last Updated: 9/14/2024, 4:42:04 AM (in GMT)_
