@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2409/Comet23A3_LucyHu_3000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2409/M13IFN_2048.jpg)
 
-## Comet A3 Through an Australian Sunrise
+## The Great Globular Cluster in Hercules
 
 26th September 2024
 
 ### Explanation: 
 
-Comet Tsuchinshan-ATLAS is now visible in the early morning sky.  Diving into the inner Solar System at an odd angle, this large dirty iceberg will pass its closest to the Sun -- between the orbits of Mercury and Venus -- in just two days. Long camera exposures are now capturing C/2023 A3 (Tsuchinshan–ATLAS), sometimes abbreviated as just A3, and its dust tail before and during sunrise.  The featured image composite was taken four days ago and captured the comet as it rose above Lake George, NSW, Australia.  Vertical bands further left are images of the comet as the rising Sun made the predawn sky increasingly bright and colorful. Just how bright the comet will become over the next month is currently unknown as it involves how much gas and dust the comet's nucleus will expel. Optimistic skywatchers are hoping for a great show where Tsuchinshan–ATLAS creates dust and ion tails visible across Earth's sky and becomes known as the Great Comet of 2024.   Survey: Color Blindness and Astronomical Images  Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
+In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shows itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison, the closest star to the Sun is over 4 light-years away. The deep, wide-field image also reveals distant background galaxies including NGC 6207 at the upper left, and faint, foreground Milky Way dust clouds known to some as integrated flux nebulae.
 
-> _Last Updated: 9/26/2024, 3:02:48 AM (in GMT)_
+> _Last Updated: 9/26/2024, 4:43:37 AM (in GMT)_
