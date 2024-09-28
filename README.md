@@ -13,4 +13,4 @@
 
 Shockwaves ripple across the glare as a launch eclipses the setting Sun in this exciting close-up. Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit after a lift-off from Cape Canaveral on Florida's space coast.  The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch and landing for the reusable workhorse launch vehicle. But where did it land? Just Read the Instructions.
 
-> _Last Updated: 9/28/2024, 6:43:43 AM (in GMT)_
+> _Last Updated: 9/28/2024, 8:42:40 AM (in GMT)_
