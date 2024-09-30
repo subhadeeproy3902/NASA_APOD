@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_5000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2409/CometA3_Korona_2040.jpg)
 
-## Seven Dusty Sisters
+## Comet Tsuchinshan-ATLAS over Mexico
 
 30th September 2024
 
 ### Explanation: 
 
-Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here, three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6 microns). The base images were taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).
+The new comet has passed its closest to the Sun and is now moving closer to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) is currently moving out from inside the orbit of Venus and on track to pass its nearest to the Earth in about two weeks.  Comet Tsuchinshan-ATLAS, pronounced "Choo-cheen-shahn At-less,", is near naked-eye visibility and easily picked up by long-exposure cameras.  The comet can also now be found by observers in Earth's northern hemisphere as well as the south.  The featured image was captured just a few days ago above Zacatecas, Mexico. Because clouds were obscuring much of the pre-dawn sky, the astrophotographer released a drone to take pictures from higher up, several of which were later merged to enhance the comet's visibility. Although the future brightness of comets is hard to predict, there is increasing hope that Comet Tsuchinshan-ATLAS will further brighten as it enters the early evening sky.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
 
-> _Last Updated: 9/30/2024, 3:07:52 AM (in GMT)_
+> _Last Updated: 9/30/2024, 4:44:08 AM (in GMT)_
