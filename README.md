@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2410/CometA3Dc_Gilmore_1080.jpg)
+![NASA APOD](undefined)
 
-## Comet Tsuchinshan-ATLAS Over the Lincoln Memorial
+## Animation: Comet Tsuchinshan-ATLAS Tails Prediction
 
 15th October 2024
 
 ### Explanation: 
 
-Go outside at sunset tonight and see a comet!  C/2023 A3 (Tsuchinshan–ATLAS) has become visible in the early evening sky in northern locations to the unaided eye. To see the comet, look west through a sky with a low horizon. If the sky is clear and dark enough, you will not even need binoculars -- the faint tail of the comet should be visible just above the horizon for about an hour.  Pictured, Comet Tsuchinshan-ATLAS was captured two nights ago over the Lincoln Memorial monument in Washington, DC, USA.  With each passing day at sunset, the comet and its changing tail should be higher and higher in the sky, although exactly how bright and how long its tails will be can only be guessed.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
+How bright and strange will the tails of Comet Tsuchinshan-ATLAS become? The comet has brightened dramatically over the few weeks as it passed its closest to the Sun and, just three days ago, passed its closest to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) became of the brightest comets of the past century over the past few days, but was unfortunately hard to see because it was so nearly superposed on the Sun.  As the comet appears to move away from the Sun, it is becoming a remarkable sight -- but may soon begin to fade.  The featured animated video shows how the comet's tails have developed, as viewed from Earth, and gives one prediction about how they might further develop. As shown in the video, heavier parts of the  dust tail that trails the comet have begun to appear to point in nearly the opposite direction from lighter parts of the dust tail as well as the comet's  ion tail, the blue tail that is pushed directly out from the Sun by the solar wind.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024
 
-> _Last Updated: 10/15/2024, 3:04:07 AM (in GMT)_
+> _Last Updated: 10/15/2024, 4:43:41 AM (in GMT)_
