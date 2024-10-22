@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_2549.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_6500.jpg)
 
-## Comet Tsuchinshan-ATLAS over California
+## M16: Pillars of Star Creation
 
 22nd October 2024
 
 ### Explanation: 
 
-The tails of Comet Tsuchinshan-ATLAS were a sight to behold. Pictured, C/2023 A3 (Tsuchinshan–ATLAS) was captured near peak impressiveness last week over the Eastern Sierra Mountains in California, USA.  The comet not only showed a bright tail, but a distinct anti-tail pointing in nearly the opposite direction. The globular star cluster M5 can be seen on the right, far in the distance.  As it approached, it was unclear if this crumbling iceberg would disintegrate completely as it warmed in the bright sunlight. In reality, the comet survived to become brighter than any star in the night (magnitude -4.9), but unfortunately was then so nearly in front of the Sun that it was hard for many casual observers to locate. Whether Comet Tsuchinshan-Atlas becomes known as the Great Comet of 2024 now depends, in part, on how impressive incoming comet C/2024 S1 (ATLAS) becomes over the next two weeks.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day
 
-> _Last Updated: 10/22/2024, 3:03:18 AM (in GMT)_
+> _Last Updated: 10/22/2024, 4:44:31 AM (in GMT)_
