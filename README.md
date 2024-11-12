@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2411/CometDarkTail_Falls_5122.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_2466.jpg)
 
-## The Unusual Tails of Comet Tsuchinshan-Atlas
+## NGC 6888: The Crescent Nebula
 
 12th November 2024
 
 ### Explanation: 
 
-What created an unusual dark streak in Comet Tsuchinshan-Atlas's tail? Some images of the bright comet during mid-October not only caught its impressively long tail and its thin anti-tail, but a rather unexpected feature: a dark streak in the long tail. The reason for the dark streak is currently unclear and a topic of some debate.  Possible reasons include a plume of dark dust, different parts of the bright tail being unusually superposed, and a shadow of a dense part of the coma on smaller dust particles. The streak is visible in the featured image taken on October 14 from Texas, USA. To help future analyses, if you have taken a good image of the comet that clearly shows this dark streak, please send it in to APOD. Comet Tsuchinshan–ATLAS has now faded considerably and is returning to the outer Solar System.   Gallery: Comet Tsuchinshan-ATLAS in 2024
+How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day
 
-> _Last Updated: 11/12/2024, 4:42:30 AM (in GMT)_
+> _Last Updated: 11/12/2024, 6:45:07 AM (in GMT)_
