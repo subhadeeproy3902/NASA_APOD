@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2411/PIA20727PlutoNight.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2411/LDN1471_HubbleSchmidt_1024.jpg)
 
-## Pluto at Night
+## LDN 1471: A Windblown Star Cavity
 
 17th November 2024
 
 ### Explanation: 
 
-The night side of Pluto spans this shadowy scene. In the stunning spacebased perspective the Sun is 4.9 billion kilometers (almost 4.5 light-hours) behind the dim and distant world. It was captured by far flung New Horizons in July of 2015 when the spacecraft was at a range of some 21,000 kilometers from Pluto, about 19 minutes after its closest approach. A denizen of the Kuiper Belt in dramatic silhouette, the image also reveals Pluto's tenuous, surprisingly complex layers of hazy atmosphere. Near the top of the frame the crescent twilight landscape includes southern areas of nitrogen ice plains now formally known as Sputnik Planitia and rugged mountains of water-ice in the Norgay Montes.
+What is the cause of this unusual parabolic structure?  This illuminated cavity, known as LDN 1471, was created by a newly forming star, seen as the bright source at the peak of the parabola.  This protostar is experiencing a stellar outflow which is then interacting with the surrounding material in the Perseus Molecular Cloud, causing it to brighten.  We see only one side of the cavity -- the other side is hidden by dark dust.  The parabolic shape is caused by the widening of the stellar-wind blown cavity over time. Two additional structures can also be seen either side of the protostar; these are known as Herbig-Haro objects, again caused by the interaction of the outflow with the surrounding material.  What causes the striations on the cavity walls, though, remains unknown.  The featured image was taken by NASA and ESA’s Hubble Space Telescope after an original detection by the Spitzer Space Telescope.   Explore Your Universe: Random APOD Generator
 
-> _Last Updated: 11/17/2024, 4:43:17 AM (in GMT)_
+> _Last Updated: 11/17/2024, 6:46:05 AM (in GMT)_
