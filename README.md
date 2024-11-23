@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1799.jpg)
 
-## The Medusa Nebula
+## Interplanetary Earth
 
 23rd November 2024
 
 ### Explanation: 
 
-Braided and serpentine filaments of glowing gas suggest this nebula's popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa's transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend below and to the left. The Medusa Nebula is estimated to be over 4 light-years across.
+In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.
 
-> _Last Updated: 11/23/2024, 4:44:22 AM (in GMT)_
+> _Last Updated: 11/23/2024, 6:46:17 AM (in GMT)_
