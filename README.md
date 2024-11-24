@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2411/earth_cassinimessenger_1799.jpg)
+![NASA APOD](undefined)
 
-## Interplanetary Earth
+## Journey to the Center of the Galaxy
 
 24th November 2024
 
 ### Explanation: 
 
-In an interplanetary first, on July 19, 2013 Earth was photographed on the same day from two other worlds of the Solar System, innermost planet Mercury and ringed gas giant Saturn. Pictured on the left, Earth is the pale blue dot just below the rings of Saturn, as captured by the robotic Cassini spacecraft then orbiting the outermost gas giant. On that same day people across planet Earth snapped many of their own pictures of Saturn. On the right, the Earth-Moon system is seen against the dark background of space as captured by the sunward MESSENGER spacecraft, then in Mercury orbit. MESSENGER took its image as part of a search for small natural satellites of Mercury, moons that would be expected to be quite dim. In the MESSENGER image, the brighter Earth and Moon are both overexposed and shine brightly with reflected sunlight. Destined not to return to their home world, both Cassini and MESSENGER have since retired from their missions of Solar System exploration.
+What lies at the center of our galaxy? In Jules Verne's science fiction classic, A Journey to the Center of the Earth, Professor Liedenbrock and his fellow explorers encounter many strange and exciting wonders. Astronomers already know of some of the bizarre objects that exist at our Galactic Center, including vast cosmic dust clouds, bright star clusters, swirling rings of gas, and even a supermassive black hole. Much of the Galactic Center is shielded from our view in visible light by the intervening dust and gas, but it can be explored using other forms of electromagnetic radiation. The featured video is actually a digital zoom into the Milky Way's center which starts by utilizing visible light images from the Digitized Sky Survey. As the movie proceeds, the light shown shifts to dust-penetrating infrared and highlights gas clouds that were recently discovered in 2013 to be falling toward the central black hole.
 
-> _Last Updated: 11/24/2024, 4:43:22 AM (in GMT)_
+> _Last Updated: 11/24/2024, 6:46:54 AM (in GMT)_
