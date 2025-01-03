@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT.jpeg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2501/APODEclipsePair2048.jpg)
 
-## Solar Analemma 2024
+## Eclipse Pair
 
 3rd January 2025
 
 ### Explanation: 
 
-Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun's position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.
+clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the full and new phases of the Moon, separated by just over 14 days, create a lunar and a solar eclipse. But only rarely is the alignment at both new moon and full moon phases during a single eclipse season close enough to produce a pair with both total (or a total and an annular) lunar and solar eclipses. More often, partial eclipses are part of any eclipse season. In fact, the last eclipse season of 2024 produced this fortnight-separated eclipse pair: a partial lunar eclipse on 18 September and an annular solar eclipse on 2 October. The time-lapse composite images were captured from Somerset, UK (left) and Rapa Nui planet Earth. The 2025 eclipse seasons will see a total lunar eclipse on 14 March paired with a partial solar eclipse on 29 March, and a total lunar eclipse on 8 September followed by a partial solar eclipse on 21 September.
 
-> _Last Updated: 1/3/2025, 4:42:13 AM (in GMT)_
+> _Last Updated: 1/3/2025, 6:45:27 AM (in GMT)_
