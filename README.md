@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2501/noirlab2429a.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2501/CasA_nircam_4096.jpg)
 
-## M83: The Southern Pinwheel
+## Supernova Remnant Cassiopeia A
 
 17th January 2025
 
 ### Explanation: 
 
-Beautiful and bright spiral galaxy M83 lies a some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was captured with the Dark Energy Camera and Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory.
+Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
 
-> _Last Updated: 1/17/2025, 4:43:19 AM (in GMT)_
+> _Last Updated: 1/17/2025, 6:44:27 AM (in GMT)_
