@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2501/CometATLAS_Danin_1080.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2501/NGC7000_Valianos_3132.jpg)
 
-## Comet ATLAS over Brasília
+## The North America Nebula
 
 22nd January 2025
 
 ### Explanation: 
 
-What's that in the sky? Above the city, above most clouds, far in the distance: it's a comet. Pictured, the impressive tail of Comet C/2024 G3 (ATLAS) was imaged from Brasília, Brazil four days ago. Last week the evolving  comet rounded the Sun well inside the orbit of planet Mercury, going so close there was early concern that it might break up -- and recent evidence that it really did.  At one point near perihelion, Comet ATLAS was so bright that sightings were even reported during the day -- over the bright sky near the Sun -- by careful observers.  Over the past few days, Comet ATLAS has developed a long tail that has been partly visible with unaided eyes after sunset, most notably in Earth's southern hemisphere.    Growing Gallery: Comet ATLAS (G3)
+The North America nebula on the sky can do what the North America continent on Earth cannot -- form stars.  Specifically, in analogy to the Earth-confined continent, the bright part that appears as the east coast  is actually a hot bed of gas, dust, and newly formed stars known as the Cygnus Wall.  The featured image shows the star forming wall lit and eroded by bright young stars and partly hidden by the dark dust they have created.  The part of the North America nebula (NGC 7000) shown spans about 50 light years and lies about 1,500 light years away toward the constellation of the Swan (Cygnus).   Jigsaw Challenge: Astronomy Puzzle of the Day
 
-> _Last Updated: 1/22/2025, 4:42:14 AM (in GMT)_
+> _Last Updated: 1/22/2025, 6:45:20 AM (in GMT)_
