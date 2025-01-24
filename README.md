@@ -13,4 +13,4 @@
 
 Comet C/2024 G3 ATLAS has made a dramatic appearance in planet Earth's skies. A visitor from the distant Oort Cloud, the comet reached its perihelion on January 13. On January 19, the bright comet was captured here from ESO Paranal Observatory in the Atacama desert in Chile. Sporting spectacular sweeping dust tails, this comet ATLAS is setting in the southern hemisphere twilight and was clearly visible to the unaided eye. In the foreground is the closed shell of one of the observatory's famous auxiliary telescopes. Still wowing southern hemisphere observers, the comet's bright coma has become diffuse, its icy nucleus apparently disintegrating following its close approach to the Sun.   Growing Gallery: Comet ATLAS (G3)
 
-> _Last Updated: 1/24/2025, 6:44:31 AM (in GMT)_
+> _Last Updated: 1/24/2025, 8:42:37 AM (in GMT)_
