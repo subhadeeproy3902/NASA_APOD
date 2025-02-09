@@ -13,4 +13,4 @@
 
 A waxing crescent Moon and a waning crescent Venus are found at opposite corners of this twilight telephoto field of view. The close conjunction of the two brightest celestial beacons in planet Earth's western evening sky was captured on February 1 from Rosario, Argentina. On that date, the slender crescent Moon was about 3 days old. But the Moon's visible sunlit crescent will grow to a bright Full Moon by February 14. Like the Moon, Venus cycles through phases as it orbits the Sun. And while its visible sunlit crescent narrows, the inner planet's apparent size increases as it gets closer to Earth. In a Valentine from the Solar System, Venus, named for the Roman goddess of Love, will also reach its peak brightness in planet Earth's evening skies around February 14.
 
-> _Last Updated: 2/9/2025, 3:01:48 AM (in GMT)_
+> _Last Updated: 2/9/2025, 4:40:35 AM (in GMT)_
