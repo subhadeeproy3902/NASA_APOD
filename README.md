@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2502/M41_Li_4000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2502/ClusterRing_Euclid_2665.jpg)
 
-## M41: The Little Beehive Star Cluster
+## Einstein Ring Surrounds Nearby Galaxy Center
 
 26th February 2025
 
 ### Explanation: 
 
-Why are there so many bright blue stars?  Stars are usually born in clusters, and the brightest and most massive of these stars typically glow blue. Less-bright, non-blue stars like our Sun surely also exist in this M41 star cluster but are harder to see. A few bright orange-appearing red giant stars are visible. The red-light filaments are emitted by diffuse hydrogen gas, a color that was specifically filtered and enhanced in this image.  In a hundred million years or so, the bright blue stars will have exploded in supernovas and disappeared, while the slightly different trajectories of the fainter stars will cause this picturesque open cluster to disperse. Similarly, billions of years ago, our own Sun was likely born into a star cluster like M41, but it has long since drifted apart from its sister stars. The featured image was captured over four hours with Chilescope T2 in Chile.
+Do you see the ring?  If you look very closely at the center of the featured galaxy NGC 6505, a ring becomes evident. It is the gravity of NGC 6505, the nearby (z = 0.042) elliptical galaxy that you can easily see, that is magnifying and distorting the image of a distant galaxy into a complete circle. To create a complete Einstein ring there must be perfect alignment of the nearby galaxy's center and part of the background galaxy. Analysis of this ring and the multiple images of the background galaxy help to determine the mass and fraction of dark matter in NGC 6505's center, as well as uncover previously unseen details in the distorted galaxy.  The featured image was captured by ESA's Earth-orbiting Euclid telescope in 2023 and released earlier this month.
 
-> _Last Updated: 2/26/2025, 4:44:49 AM (in GMT)_
+> _Last Updated: 2/26/2025, 6:46:09 AM (in GMT)_
