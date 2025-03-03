@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2503/BlueGhostShadow_Firefly_4096.jpg)
 
-## The Hubble Ultra Deep Field in Light and Sound
+## Blue Ghost on the Moon
 
 3rd March 2025
 
 ### Explanation: 
 
-Have you heard about the Hubble Ultra-Deep Field?  Either way, you've likely not heard about it like this -- please run your cursor over the featured image and listen!  The Hubble Ultra-Deep Field (HUDF) was created in 2003-2004 with the Hubble Space Telescope staring for a long time toward near-empty space so that distant, faint galaxies would become visible.  One of the most famous images in astronomy, the HUDF is featured here in a vibrant way -- with sonified distances. Pointing to a galaxy will play a note that indicates its approximate redshift. Because redshifts shift light toward the red end of the spectrum of light, they are depicted here by a shift of tone toward the low end of the spectrum of sound.  The further the galaxy, the greater its cosmological redshift (even if it appears blue), and the lower the tone that will be played. The average galaxy in the HUDF is about 10.6 billion light years away and sounds like an F#. What's the most distant galaxy you can find?
+There's a new lander on the Moon. Yesterday Firefly Aerospace's Blue Ghost executed the first-ever successful commercial lunar landing. During its planned 60-day mission, Blue Ghost will deploy several NASA-commissioned scientific instruments, including PlanetVac which captures lunar dust after creating a small whirlwind of gas. Blue Ghost will also host the telescope LEXI that captures X-ray images of the Earth's magnetosphere. LEXI data should enable a better understanding of how Earth's magnetic field protects the Earth from the Sun's wind and flares.  Pictured, the shadow of the Blue Ghost lander is visible on the cratered lunar surface, while the glowing orb of the planet Earth hovers just over the horizon. Goals for future robotic Blue Ghost landers include supporting lunar astronauts in NASA's Artemis program, with Artemis III currently scheduled to land humans back on the Moon in 2027.
 
-> _Last Updated: 3/3/2025, 4:44:07 AM (in GMT)_
+> _Last Updated: 3/3/2025, 6:47:52 AM (in GMT)_
