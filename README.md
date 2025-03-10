@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2503/JupiterCyclones_Juno_2362.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2503/California_Mendez_2604.jpg)
 
-## Cyclones at Jupiter's North Pole
+## NGC 1499: The California Nebula
 
 10th March 2025
 
 ### Explanation: 
 
-Why are there so many cyclones around the north pole of Jupiter? The topic is still being researched.  NASA's robotic Juno mission orbiting Jupiter took data in 2018 that was used to construct this stunning view of the curious cyclones at Jupiter's north pole. Measuring the thermal emission from Jovian cloud tops, the infrared observations are not restricted to the hemisphere illuminated by sunlight. They reveal eight cyclonic features that surround a cyclone about 4,000 kilometers in diameter, just offset from the giant planet's geographic north pole. Similar data show a cyclone at the Jovian south pole with five circumpolar cyclones. The south pole cyclones are slightly larger than their northern cousins. Oddly, data from the once Saturn-orbiting Cassini mission has shown that Saturn's north and south poles each have only a single cyclonic storm system.
+Could Queen Calafia's mythical island exist in space? Perhaps not, but by chance the outline of this molecular space cloud echoes the outline of the state of California, USA. Our Sun has its home within the Milky Way's Orion Arm, only about 1,000 light-years from the California Nebula. Also known as NGC 1499, the classic emission nebula is around 100 light-years long. On the featured image, the most prominent glow of the California Nebula is the red light characteristic of hydrogen atoms recombining with long lost electrons, stripped away (ionized) by energetic starlight. The star most likely providing the energetic starlight that ionizes much of the nebular gas is the bright, hot, bluish Xi Persei just to the right of the nebula.  A regular target for astrophotographers, the California Nebula can be spotted with a wide-field telescope under a dark sky toward the constellation of Perseus, not far from the Pleiades.   Explore Your Universe: Random APOD Generator
 
-> _Last Updated: 3/10/2025, 2:48:37 AM (in GMT)_
+> _Last Updated: 3/10/2025, 4:39:54 AM (in GMT)_
