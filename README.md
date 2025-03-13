@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2503/NGC772Comet_Bax_4724.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2503/webb-STScI-01L483_2048.png)
 
-## NGC 772: The Fiddlehead Galaxy
+## The Protostars within Lynds 483
 
 13th March 2025
 
 ### Explanation: 
 
-Why does this galaxy look like a curly vegetable?  The Fiddlehead spiral galaxy likely gets its distorted spiral appearance from a gravitational interaction with its close-by elliptical companion NGC 770, seen just below.  Cataloged as NGC 772 and Arp 78, the Fiddlehead spans over 200,000 light years, is a nearby 100 million light years beyond the stars of our Milky Way galaxy, and is visible toward the constellation of the Ram (Aries).  But in the featured image, the Fiddlehead appears to have another companion -- one with a long and fuzzy tail: Comet 43P/Wolf-Harrington.  Though the comet appears to be aimed straight at the massive galaxy, it is actually much closer to us, residing only light minutes away -- well within our Solar System.  The comet will never reach the distant spiral galaxy, nor is it physically related to it.  By a fortunate trick of perspective, though, these two cosmic wonders briefly share the same frame taken late last year from Calern, France.
+Two protostars are hidden in a single pixel near the center of a striking hourglass-shaped nebula in this near-infrared image from the James Webb Space Telescope. The actively forming star system lies in a dusty molecular cloud cataloged as Lynds 483, some 650 light-years distant toward the constellation Serpens Cauda. Responsible for the stunning bipolar outflows, the collapsing protostars have been blasting out collimated energetic jets of material over tens of thousands of years. Webb's high-resolution view shows the violence of star-formation in dramatic detail as twisting shock fronts expand and collide with slower, denser material. The premier close-up of the star-forming region spans less than 1/2 a light-year within dark nebula Lynds 483.  March 13/14: Total Lunar Eclipse
 
-> _Last Updated: 3/13/2025, 3:08:31 AM (in GMT)_
+> _Last Updated: 3/13/2025, 4:44:59 AM (in GMT)_
