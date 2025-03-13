@@ -13,4 +13,4 @@
 
 Two protostars are hidden in a single pixel near the center of a striking hourglass-shaped nebula in this near-infrared image from the James Webb Space Telescope. The actively forming star system lies in a dusty molecular cloud cataloged as Lynds 483, some 650 light-years distant toward the constellation Serpens Cauda. Responsible for the stunning bipolar outflows, the collapsing protostars have been blasting out collimated energetic jets of material over tens of thousands of years. Webb's high-resolution view shows the violence of star-formation in dramatic detail as twisting shock fronts expand and collide with slower, denser material. The premier close-up of the star-forming region spans less than 1/2 a light-year within dark nebula Lynds 483.  March 13/14: Total Lunar Eclipse
 
-> _Last Updated: 3/13/2025, 6:47:25 AM (in GMT)_
+> _Last Updated: 3/13/2025, 8:46:40 AM (in GMT)_
