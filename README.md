@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2503/SunVenusUv3_SdoDove_960.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_3888.jpg)
 
-## Venus and the Triply Ultraviolet Sun
+## Thor's Helmet
 
 17th March 2025
 
 ### Explanation: 
 
-This was a very unusual type of solar eclipse.  Typically, it is the Earth's Moon that eclipses the Sun.  In 2012, though, the planet Venus took a turn.  Like a solar eclipse by the Moon, the phase of Venus became a continually thinner crescent as Venus became increasingly better aligned with the Sun.  Eventually the alignment became perfect and the phase of Venus dropped to zero.  The dark spot of Venus crossed our parent star.  The situation could technically be labeled a Venusian annular eclipse with an extraordinarily large ring of fire.  Pictured here during the occultation, the Sun was imaged in three colors of ultraviolet light by the Earth-orbiting Solar Dynamics Observatory, with the dark region toward the right corresponding to a coronal hole. Hours later, as Venus continued in its orbit, a slight crescent phase appeared again.  The next Venusian transit across the Sun will occur in 2117.
+Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.
 
-> _Last Updated: 3/17/2025, 3:10:52 AM (in GMT)_
+> _Last Updated: 3/17/2025, 4:44:47 AM (in GMT)_
