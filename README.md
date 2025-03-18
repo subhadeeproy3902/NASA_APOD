@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2503/ThorHelmet_Hopkins_3888.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2503/Shark_Martin_5441.jpg)
 
-## Thor's Helmet
+## LDN 1235: The Shark Nebula
 
 18th March 2025
 
 ### Explanation: 
 
-Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.
+There is no sea on Earth large enough to contain the Shark nebula. This predator apparition poses us no danger as it is composed only of interstellar gas and dust. Dark dust like that featured here is somewhat like cigarette smoke and created in the cool atmospheres of giant stars. After expelling gas and gravitationally recondensing, massive stars may carve intricate structures into their birth cloud using their high energy light and fast stellar winds as sculpting tools.  The heat they generate evaporates the murky molecular cloud as well as causing ambient hydrogen gas to disperse and glow red.  During disintegration, we humans can enjoy imagining these great clouds as common icons, like we do for water clouds on Earth. Including smaller dust nebulae such as Van den Bergh 149 & 150, the Shark nebula, sometimes cataloged as LDN 1235,  spans about 15 light years and lies about 650 light years away toward the constellation of the King of Aethiopia (Cepheus).   Explore Your Universe: Random APOD Generator
 
-> _Last Updated: 3/18/2025, 3:10:13 AM (in GMT)_
+> _Last Updated: 3/18/2025, 4:44:50 AM (in GMT)_
