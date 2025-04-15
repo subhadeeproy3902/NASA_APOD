@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2504/GCenter_MeerKatWebb_7642.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2504/NGC1514_WebbSchmidt_1983.jpg)
 
-## The Galactic Center in Radio from MeerKAT
+## Planetary Nebula NGC 1514 from Webb
 
 15th April 2025
 
 ### Explanation: 
 
-What's happening at the center of our galaxy? It's hard to tell with optical telescopes since visible light is blocked by intervening interstellar dust. In other bands of light, though, such as radio, the galactic center can be imaged and shows itself to be quite an interesting and active place.  The featured picture shows an image of our Milky Way's center by the MeerKAT array of 64 radio dishes in South Africa. Spanning four times the angular size of the Moon (2 degrees), the image is impressively vast, deep, and detailed.  Many known sources are shown in clear detail, including many with a prefix of Sgr, since the galactic center is in the direction of the constellation Sagittarius.  In our galaxy's center lies Sgr A, found here in the image center, which houses the Milky Way's central supermassive black hole.  Other sources in the image are not as well understood, including the Arc, just to the left of Sgr A, and numerous filamentary threads. The inset image shows a small patch recently imaged in infrared light with the James Webb Space Telescope to investigate the effects of magnetic fields on star formation.    Open Science: Browse 3,600+ codes in the Astrophysics Source Code Library
+What happens when a star runs out of nuclear fuel?  For stars like our Sun, the center condenses into a white dwarf while the outer atmosphere is expelled into space to appear as a planetary nebula.  The expelled outer atmosphere of planetary nebula NGC 1514 appears to be a jumble of bubbles -- when seen in visible light.  But the view from the James Webb Space Telescope in infrared, as featured here, confirms a different story: in this light the nebula shows a distinct hourglass shape, which is interpreted as a cylinder seen along a diagonal.  If you look closely at the center of the nebula, you can also see a bright central star that is part of a binary system.  More observations might better reveal how this nebula is evolving and how the central stars are working together to produce the interesting cylinder and bubbles observed.    Jump Around the Universe: Random APOD Generator
 
-> _Last Updated: 4/15/2025, 3:25:38 AM (in GMT)_
+> _Last Updated: 4/15/2025, 4:46:26 AM (in GMT)_
