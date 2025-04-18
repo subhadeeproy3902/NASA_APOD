@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2504/LRGB_final_corrected2048.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2504/C2025_F2SWAN_20250414_DEBartlett.jpg)
 
-## Virgo Cluster Galaxies
+## Comet C/2025 F2 SWAN
 
 18th April 2025
 
 ### Explanation: 
 
-Galaxies of the Virgo Cluster are scattered across this nearly 4 degree wide telescopic field of view. About 50 million light-years distant, the Virgo Cluster is the closest large galaxy cluster to our own local galaxy group. Prominent here are Virgo's bright elliptical galaxies from the Messier catalog, M87 at bottom left, and M86 and M84 near center right. M86 and M84 are recognized as part of Markarian's Chain, the visually striking line-up of galaxies on the that runs through the upper portion of this frame. Near the middle of the chain lies an intriguing interacting pair of galaxies, NGC 4438 and NGC 4435, known to some as Markarian's Eyes. Still, giant elliptical galaxy M87 dominates the Virgo cluster. It's the home of a super massive black hole, the first black hole ever imaged by planet Earth's Event Horizon Telescope.
+In late March, the comet now designated C/2025 F2 SWAN was found independently by citizen scientists Vladimir Bezugly, Michael Mattiazzo, and Rob Matson while examining publicly available image data from the Solar Wind ANisotropies (SWAN) camera on the sun-staring SOHO spacecraft. Comet SWAN's coma, its greenish color a signature of diatomic carbon molecules fluorescing in sunlight, is at lower left in this telescopic image. SWAN's faint ion tail extends nearly two degrees toward the upper right across the field of view. The interplanetary scene was captured in clear but moonlit skies from June Lake, California on April 14. Seen against background of stars toward the constellation Andromeda, the comet was then some 10 light-minutes from our fair planet. Now a target for binoculars and small telescopes in northern hemisphere morning skies this comet SWAN is headed for a perihelion, its closest approach to the Sun, on May 1. That will bring this visitor from the distant Oort cloud almost as close to the Sun as the orbit of inner planet Mercury.
 
-> _Last Updated: 4/18/2025, 3:20:59 AM (in GMT)_
+> _Last Updated: 4/18/2025, 4:46:45 AM (in GMT)_
