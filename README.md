@@ -7,10 +7,10 @@
 
 ## Painting with Jupiter
 
-19th April 2025
+20th April 2025
 
 ### Explanation: 
 
 In digital brush strokes, Jupiter's signature atmospheric bands and vortices were used to form this interplanetary post-impressionist work of art. The creative image from citizen scientist Rick Lundh uses data from the Juno spacecraft's JunoCam. To paint on the digital canvas, a JunoCam image with contrasting light and dark tones was chosen for processing and an oil-painting software filter applied. The image data was captured during perijove 10. That was Juno's December 16, 2017 close encounter with the solar system's ruling gas giant. At the time the spacecraft was cruising about 13,000 kilometers above northern Jovian cloud tops. Now in an extended mission, Juno has explored Jupiter and its moons since entering orbit around Jupiter in July of 2016.
 
-> _Last Updated: 4/19/2025, 8:43:37 AM (in GMT)_
+> _Last Updated: 4/20/2025, 3:25:58 AM (in GMT)_
