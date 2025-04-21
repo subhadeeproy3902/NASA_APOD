@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2504/M42_SpitzerCzernetz_2000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2504/GalaxiesLens_Webb_1146.jpg)
 
-## The Orion Nebula in Visible and Infrared
+## Galaxy Lenses Galaxy from Webb
 
 21st April 2025
 
 ### Explanation: 
 
-The Great Nebula in Orion is a colorful place.  Visible to the unaided eye, it appears as a small fuzzy patch in the constellation of Orion.  Long exposure, multi-wavelength images like this, however, show the Orion Nebula to be a busy neighborhood of young stars, hot gas, and dark dust.  This digital composite features not only three colors of visible light but four colors of infrared light taken by NASA's orbiting Spitzer Space Telescope as well.  The power behind much of the Orion Nebula (M42) is the Trapezium - four of the brightest stars in the nebula.  Many of the filamentary structures visible are actually shock waves - fronts where fast moving material encounters slow moving gas.  The Orion Nebula spans about 40 light years and is located about 1500 light years away in the same spiral arm of our Galaxy as the Sun.
+Is this one galaxy or two? Although it looks like one, the answer is two. One path to this happening is when a small galaxy collides with a larger galaxy and ends up in the center. But in the featured image, something more rare is going on. Here, the central light-colored elliptical galaxy is much closer than the blue and red-colored spiral galaxy that surrounds it. This can happen when near and far galaxies are exactly aligned, causing the gravity of the near galaxy to pull the light from the far galaxy around it in an effect called gravitational lensing. The featured galaxy double was taken by the Webb Space Telescope and shows a complete Einstein ring, with great detail visible for both galaxies.  Galaxy lenses like this can reveal new information about the mass distribution of the foreground lens and the light distribution of the background source.
 
-> _Last Updated: 4/21/2025, 3:28:30 AM (in GMT)_
+> _Last Updated: 4/21/2025, 4:46:49 AM (in GMT)_
