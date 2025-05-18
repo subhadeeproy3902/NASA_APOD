@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2505/PIA19363.jpg)
+![NASA APOD](undefined)
 
-## Ares 3 Landing Site: The Martian Revisited
+## Pluto Flyover from New Horizons
 
 18th May 2025
 
 ### Explanation: 
 
-This close-up from the Mars Reconnaissance Orbiter's HiRISE camera shows weathered craters and windblown deposits in southern Acidalia Planitia. A striking shade of blue in standard HiRISE image colors, to the human eye the area would probably look grey or a little reddish. But human eyes have not gazed across this terrain, unless you count the eyes of NASA astronauts in the sci-fi novel, "The Martian," by Andy Weir. The novel chronicles the adventures of Mark Watney, an astronaut stranded at the fictional Mars mission Ares 3 landing site, corresponding to the coordinates of this cropped HiRISE frame. For scale, Watney's 6-meter-diameter habitat at the site would be about 1/10th the diameter of the large crater. Of course, the Ares 3 landing coordinates are only about 800 kilometers north of the (real life) Carl Sagan Memorial Station, the 1997 Pathfinder landing site.
+What if you could fly over Pluto -- what might you see? The New Horizons spacecraft did just this in 2015 July as it shot past the distant world at a speed of about 80,000 kilometers per hour. Images from this spectacular passage have been color enhanced, vertically scaled, and digitally combined into the featured two-minute time-lapse video. As your journey begins, light dawns on mountains thought to be composed of water ice but colored by frozen nitrogen.  Soon, to your right, you see a flat sea of mostly solid nitrogen that has segmented into strange polygons that are thought to have bubbled up from a comparatively warm interior.  Craters and ice mountains are common sights below. The video dims and ends over terrain dubbed bladed because it shows 500-meter high ridges separated by kilometer-sized gaps.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and is now headed out of our Solar System.
 
-> _Last Updated: 5/18/2025, 3:33:06 AM (in GMT)_
+> _Last Updated: 5/18/2025, 4:49:07 AM (in GMT)_
