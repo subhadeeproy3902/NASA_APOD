@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2505/MaunaKeaNight_Rogozinska_1295.jpg)
 
-## Charon Flyover from New Horizons
+## Milky Way over Maunakea
 
 20th May 2025
 
 ### Explanation: 
 
-What if you could fly over Pluto's moon Charon -- what might you see? The New Horizons spacecraft did just this in 2015 July as it zipped past Pluto and Charon with cameras blazing.  The images recorded allowed for a digital reconstruction of much of Charon's surface, further enabling the creation of fictitious flights over Charon created from this data.  One such fanciful, minute-long, time-lapse video is shown here with vertical heights and colors of surface features digitally enhanced.  Your journey begins over a wide chasm that divides different types of Charon's landscapes, a chasm that might have formed when Charon froze through. You soon turn north and fly over a colorful depression dubbed Mordor that, one hypothesis holds, is an unusual remnant from an ancient impact.  Your voyage continues over an alien landscape rich with never-before-seen craters, mountains, and crevices.  The robotic New Horizons spacecraft has too much momentum to ever return to Pluto and Charon and is now headed out of our Solar System.    Portal Universe: Random APOD Generator
+Have you ever seen the band of our Milky Way Galaxy?  In a clear sky from a dark location at the right time, a faint band of light becomes visible across the sky.  Soon after your eyes become dark adapted, you might spot the band for the first time.  It may then become obvious.  Then spectacular.  One reason for your growing astonishment might be the realization that this fuzzy swath, the Milky Way, contains billions of stars.  Visible in the featured image, high above in the night sky, the band of the Milky Way Galaxy arcs.  Also visible are the colorful clouds of Rho Ophiuchi on the right, and the red and circular Zeta Ophiuchi nebula near the top center. Taken in late February from Maunakea, Hawaii, USA, the foreground telescope is the University of Hawaii's 2.2-Meter Telescope. Fortunately, you don’t need to be near the top of a Hawaiian volcano to see the Milky Way.    Put it All Together: Astronomy Puzzle of the Day
 
-> _Last Updated: 5/20/2025, 3:30:43 AM (in GMT)_
+> _Last Updated: 5/20/2025, 4:46:58 AM (in GMT)_
