@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2505/NGC6366_3500.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2505/PIA26556_2048.jpg)
 
-## NGC 6366 vs 47 Ophiuchi
+## Deimos Before Sunrise
 
 24th May 2025
 
 ### Explanation: 
 
-Most globular star clusters roam the halo of our Milky Way galaxy, but globular cluster NGC 6366 lies close to the galactic plane. About 12,000 light-years away toward the constellation Ophiuchus, the cluster's starlight is dimmed and reddened by the Milky Way's interstellar dust when viewed from planet Earth. As a result, the stars of NGC 6366 look almost golden in this telescopic scene, especially when seen next to relatively bright, bluish, and nearby star 47 Ophiuchi. Compared to the hundred thousand stars or so gravitationally bound in distant NGC 6366, 47 Oph itself is a binary star system  a mere 100 light-years away. Still, the co-orbiting stars of 47 Oph are too close together to be individually distinguished in the image.
+Deimos takes 30 hours and 18 minutes to complete one orbit around the Red Planet. That's a little more than one Martian day or sol which is about 24 hours and 40 minutes long, so Deimos drifts westward across the Martian sky. About 15 kilometers across at its widest, the smallest of Mars' two moons is bright though. In fact Deimos is the brightest celestial object in this Martian skyscape captured before sunrise by Perseverance on March 1, the 1,433rd sol of the Mars rover's mission. The image is a composed of 16 exposures recorded by one of the rover's navigation cameras. The individual exposures were combined into a single image for an enhanced low light view. Regulus and Algeiba, bright stars in the constellation Leo, are also visible in the dark Martian predawn sky.
 
-> _Last Updated: 5/24/2025, 3:26:37 AM (in GMT)_
+> _Last Updated: 5/24/2025, 4:45:25 AM (in GMT)_
