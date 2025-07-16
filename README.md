@@ -13,4 +13,4 @@
 
 Would the Rosette Nebula by any other name look as sweet? The bland New General Catalog designation of NGC 2237 doesn't appear to diminish the appearance of this flowery emission nebula, as captured by the Dark Energy Camera (DECam) on the Blanco 4-meter telescope at the NSF's Cerro Tololo Inter-American Observatory in Chile.  Inside the nebula lies an open cluster of bright young stars designated NGC 2244. These stars formed about four million years ago from the nebular material and their stellar winds are clearing a hole in the nebula's center, insulated by a layer of dust and hot gas. Ultraviolet light from the hot cluster stars causes the surrounding nebula to glow. The Rosette Nebula spans about 100 light-years across, lies about 5000 light-years away, and can be seen with a small telescope towards the constellation of the Unicorn (Monoceros).   Open Science: Browse 3,700+ codes in the Astrophysics Source Code Library
 
-> _Last Updated: 7/16/2025, 6:55:41 AM (in GMT)_
+> _Last Updated: 7/16/2025, 8:54:12 AM (in GMT)_
