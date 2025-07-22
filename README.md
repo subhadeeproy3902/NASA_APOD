@@ -13,4 +13,4 @@
 
 Can some supernovas explode twice? Yes, when the first explosion acts like a detonator for the second. This is a leading hypothesis for the cause of supernova remnant (SNR) 0509-67.5.  In this two-star system, gravity causes the larger and fluffier star to give up mass to a smaller and denser white dwarf companion. Eventually the white dwarf's near-surface temperature goes so high that it explodes, creating a shock wave that goes both out and in -- and so triggers a full Type Ia supernova near the center. Recent images of the SNR 0509-67.5 system, like the featured image from the Very Large Telescope in Chile, show two shells with radii and compositions consistent with the double detonation hypothesis. This system, SNR 0509-67.5 is also famous for two standing mysteries: why its bright supernova wasn't noted 400 years ago, and why no visible companion star remains.
 
-> _Last Updated: 7/22/2025, 6:56:28 AM (in GMT)_
+> _Last Updated: 7/22/2025, 8:54:54 AM (in GMT)_
