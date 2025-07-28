@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2507/LightningVolcano_Montufar_3000.jpg)
+![NASA APOD](undefined)
 
-## Lightning over the Volcano of Water
+## Collision at Asteroid Dimorphos
 
 28th July 2025
 
 ### Explanation: 
 
-Have you ever watched a lightning storm in awe?  You're not alone. Details of what causes lightning are still being researched, but it is known that inside some clouds, internal updrafts cause collisions between ice and snow that slowly separate charges between cloud tops and bottoms. The rapid electrical discharges that are lightning soon result.  Lightning usually takes a jagged course, rapidly heating a thin column of air to about three times the surface temperature of the Sun.  The resulting shock wave starts supersonically and decays into the loud sound known as thunder.  On average, around the world, about 6,000 lightning bolts occur between clouds and the Earth every minute. Pictured in July 2019 in a two-image composite, lightning stems from communication antennas near the top of Volcán de Agua (Volcano of Water) in Guatemala.  Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+Why was this collision so strange? In 2022, to develop Earth-saving technology, NASA deliberately crashed the DART spacecraft into the asteroid moonlet Dimorphos. The hope was that this collision would alter the trajectory of Dimorphos around its parent asteroid Didymos and so demonstrate that similar collisions could, in theory, save the Earth from being hit by (other) hazardous asteroids.  But analyses of new results show that the effects of the collision are different than expected -- and we are trying to understand why.  Featured here is the time lapse video taken by the ejected LICIACube camera LUKE showing about 250 seconds of the expanding debris field of Dimorphos after the collision, with un-impacted Didymos passing in the foreground.  In 2026, Europe's Hera mission will reach the asteroids and release three spacecraft to better study the matter.
 
-> _Last Updated: 7/28/2025, 3:55:17 AM (in GMT)_
+> _Last Updated: 7/28/2025, 5:03:49 AM (in GMT)_
