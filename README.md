@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2508/PerseidsRadiant_Marcin_5500.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2508/OrionTrapezium_HubbleGendler_4000.jpg)
 
-## Perseids from Perseus
+## Trapezium: In the Heart of Orion
 
 13th August 2025
 
 ### Explanation: 
 
-Where are all of these meteors coming from?  In terms of direction on the sky, the pointed answer is the constellation of Perseus.  That is why the meteor shower that peaks tonight is known as the Perseids -- the meteors all appear to come from a radiant toward Perseus. In terms of parent body, though, the sand-sized debris that makes up the Perseids meteors come from Comet Swift-Tuttle. The comet follows a well-defined orbit around our Sun, and the part of the orbit that approaches Earth is superposed in front of Perseus. Therefore, when Earth crosses this orbit, the radiant point of falling debris appears in Perseus. Featured here, a composite image taken over six nights and containing over 100 meteors from 2024 August Perseids meteor shower shows many bright meteors that streaked over the Bieszczady Mountains in Poland. This year's Perseids, usually one of the best meteor showers of the year, will compete with a bright moon that will rise, for many locations, soon  after sunset.
+What lies in the heart of Orion?  Trapezium: four bright stars, that can be found near the center of this sharp cosmic portrait. Gathered within a region about 1.5 light-years in radius, these stars dominate the core of the dense Orion Nebula Star Cluster. Ultraviolet ionizing radiation from the Trapezium stars, mostly from the brightest star Theta-1 Orionis C powers the complex star forming region's entire visible glow. About three million years old, the Orion Nebula Cluster was even more compact in its younger years and a dynamical study indicates that runaway stellar collisions at an earlier age may have formed a black hole with more than 100 times the mass of the Sun. The presence of a black hole within the cluster could explain the observed high velocities of the Trapezium stars. The Orion Nebula's distance of some 1,500 light-years make it one of the  closest candidate black holes to Earth.
 
-> _Last Updated: 8/13/2025, 3:39:01 AM (in GMT)_
+> _Last Updated: 8/13/2025, 4:53:11 AM (in GMT)_
