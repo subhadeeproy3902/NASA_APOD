@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2509/MangiabarcheTramonto.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2509/WaterlessEarth2_woodshole_2520.jpg)
 
-## Sardinia Sunset
+## All the Water on Planet Earth
 
 7th September 2025
 
 ### Explanation: 
 
-When the sun sets on September 7, the Full Moon will rise. And on that date denizens around much of our fair planet, including parts of Antarctica, Australia, Asia, Europe, and Africa can witness a total lunar eclipse, with the Moon completely immersed in Earth's shadow. As the bright Full Moon first enters Earth's shadow it will darken, finally taking on a reddish hue during the total eclipse phase. In fact, the color of the Moon during a total lunar eclipse is due to reddened light from sunrises and sunsets around planet Earth. The reddened sunlight is scattered by a dense atmosphere into the planet's otherwise dark central shadow. When the sun set on August 22, this telephoto snapshot of red skies, blue sea, and the Mangiabarche Lighthouse was captured from Sant'Antioco, Sardinia, Italy.
+How much of planet Earth is made of water? Very little, actually. Although oceans of water cover about 70 percent of Earth's surface, these oceans are shallow compared to the Earth's radius. The featured illustration shows what would happen if all of the water on or near the surface of the Earth were bunched up into a ball. The radius of this ball would be only about 700 kilometers, less than half the radius of the Earth's Moon, but slightly larger than Saturn's moon Rhea which, like many moons in our outer Solar System, is mostly water ice. The next smallest ball depicts all of Earth's liquid fresh water, while the tiniest ball shows the volume of all of Earth's fresh-water lakes and rivers. How any of this water came to be on the Earth and whether any significant amount is trapped far beneath Earth's surface remain topics of research.
 
-> _Last Updated: 9/7/2025, 3:21:45 AM (in GMT)_
+> _Last Updated: 9/7/2025, 4:41:34 AM (in GMT)_
