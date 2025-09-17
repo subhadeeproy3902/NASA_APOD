@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2509/Swan25B_Korona_1267.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2509/SagNebs_DeWinter_4550.jpg)
 
-## New Comet SWAN25B over Mexico
+## Nebulas and Clusters in Sagittarius
 
 17th September 2025
 
 ### Explanation: 
 
-A newly discovered comet is already visible with binoculars. The comet, C/2025 R2 (SWAN) and nicknamed SWAN25B, is brightening significantly as it emerges from the Sun's direction and might soon become visible on your smartphone -- if not your eyes. Although the brightnesses of comets are notoriously hard to predict, many comets appear brighter as they approach the Earth, with SWAN25B reaching only a quarter of the Earth-Sun distance near October 19.  Nighttime skygazers will also be watching for a SWAN25B-spawned meteor shower around October 5 when our Earth passes through the plane of the comet's orbit. The unexpectedly bright comet was discovered by an amateur astronomer in images of the SWAN instrument on NASA's SOHO satellite.  The comet is currently best observed in southern skies but is slowly moving north.  The featured image was captured at sunset three days ago just above the western horizon in Zacatecas, Mexico.
+Can you spot famous celestial objects in this image?  18th-century astronomer Charles Messier cataloged only two of them: the bright Lagoon Nebula (M8) at the bottom, and the colorful Trifid Nebula (M20) at the upper right.  The one on the left that resembles a cat's paw is NGC 6559, and it is much fainter than the other two.  Even harder to spot are the thin blue filaments on the left, from supernova remnant (SNR G007.5-01.7).  Their glow comes from small amounts of glowing oxygen atoms that are so faint that it took over 17 hours of exposure with just one blue color to bring up. Framing this scene of stellar birth and death are two star clusters: the open cluster M21 just above Trifid, and the globular cluster NGC 6544 at lower left.
 
-> _Last Updated: 9/17/2025, 3:07:57 AM (in GMT)_
+> _Last Updated: 9/17/2025, 4:42:48 AM (in GMT)_
