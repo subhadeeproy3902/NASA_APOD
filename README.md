@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2509/IMAP-IG2-001.JPG)
+![NASA APOD](https://apod.nasa.gov/apod/image/2509/LeopardSpots_Perseverance_1648.jpg)
 
-## A Rocket in the Sun
+## Leopard Spots on Martian Rocks
 
 28th September 2025
 
 ### Explanation: 
 
-On the morning of September 24 a rocket crosses the bright solar disk in this long range telescopic snapshot captured from Orlando, Florida. That's about 50 miles north of its Kennedy Space Center launch site. This rocket carried three new space weather missions to space. Signals have now been successfully acquired from all three - NASA's Interstellar Mapping and Acceleration Probe, NASA’s Carruthers Geocorona Observatory, and the National Oceanic and Atmospheric Administration (NOAA) Space Weather Follow-On Lagrange 1 (SWFO-L1) - as they begin their journey to L1, an Earth-Sun lagrange point. L1 is about 1.5 million kilometers in the sunward direction from planet Earth. Appropriately, major space weather influencers, aka dark sunspots in active regions across the Sun, are posing with the transiting rocket. In fact, large active region AR4225 is just right of the rocket's nose.
+What is creating these unusual spots? Light-colored spots on Martian rocks, each surrounded by a dark border, were discovered last year by NASA's Perseverance Rover currently exploring Mars.  Dubbed leopard spots because of their seemingly similarity to markings on famous Earth-bound predators, these curious patterns are being studied with the possibility they were created by ancient Martian life.  The pictured spots measure only millimeters across and were discovered on a larger rock named Cheyava Falls.  The exciting but unproven speculation is that long ago, microbes generated energy with chemical reactions that turned rock from red to white while leaving a dark biosignature ring, like some similarly appearing spots on Earth rocks. Although other non-biological explanations have not been ruled out,  speculation focusing on this potential biological origin is causing much intrigue.
 
-> _Last Updated: 9/28/2025, 3:27:35 AM (in GMT)_
+> _Last Updated: 9/28/2025, 4:42:23 AM (in GMT)_
