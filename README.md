@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2510/WitchBroom_Meyers_6043.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2511/lrg_gabany_M42_2025.jpg)
 
-## Astronomy Picture of the Day
+## Orion and the Running Man
 
-13th November 2025
+14th November 2025
 
 ### Explanation: 
 
-Ten thousand years ago, before the dawn of recorded human history, a new light would suddenly have appeared in the night sky and faded after a few weeks.  Today we know this light was from a supernova, or exploding star, and record the expanding debris cloud as the Veil Nebula, a supernova remnant.  This sharp telescopic view is centered on a western segment of the Veil Nebula cataloged as NGC 6960 but less formally known as the Witch's Broom Nebula.  Blasted out in the cataclysmic explosion, an interstellar shock wave plows through space sweeping up and exciting interstellar material. Imaged with narrow band filters, the glowing filaments are like long ripples in a sheet seen almost edge on, remarkably well separated into atomic hydrogen (red) and oxygen (blue-green) gas. The complete supernova remnant lies about 1400 light-years away towards the constellation Cygnus. This Witch's Broom actually spans about 35 light-years. The bright star in the frame is 52 Cygni, visible with the unaided eye from a dark location but unrelated to the ancient supernova remnant.
+Few cosmic vistas can excite the imagination like The Great Nebula in Orion. Visible as a faint, bland celestial smudge to the naked-eye, the nearest large star-forming region sprawls across this sharp colorful telescopic image. Designated M42 in the Messier Catalog, the Orion Nebula's glowing gas and dust surrounds hot, young stars. About 40 light-years across, M42 is at the edge of an immense interstellar molecular cloud only 1,500 light-years away that lies within the same spiral arm of our Milky Way galaxy as the Sun. Including dusty bluish reflection nebula NGC 1977, also known as the Running Man nebula at left in the frame, the natal nebulae represent only a small fraction of our galactic neighborhood's wealth of star-forming material. Within the well-studied stellar nursery, astronomers have also identified what appear to be numerous infant solar systems.
 
-> _Last Updated: 11/13/2025, 8:50:35 AM (in GMT)_
+> _Last Updated: 11/14/2025, 3:33:29 AM (in GMT)_
