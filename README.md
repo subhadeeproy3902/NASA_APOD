@@ -13,4 +13,4 @@
 
 If this is Saturn, where are the rings?  When Saturn's "appendages" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.
 
-> _Last Updated: 11/16/2025, 6:49:48 AM (in GMT)_
+> _Last Updated: 11/16/2025, 8:45:47 AM (in GMT)_
