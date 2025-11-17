@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2511/saturnplane_cassini_1004.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2511/LemmonTail_Fernandez_3728.jpg)
 
-## Crossing Saturn's Ring Plane
+## Comet Lemmon's Wandering Tail
 
 17th November 2025
 
 ### Explanation: 
 
-If this is Saturn, where are the rings?  When Saturn's "appendages" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robotic Cassini spacecraft that orbited Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in high dark shadows.  The moons Dione and Enceladus appear as bumps in the rings.
+What has happened to Comet Lemmon's tail? The answer is blowing in the wind — the wind from the Sun in this case. This continuous outflow of charged particles from the Sun has been quite variable of late, as the Sun emits bursts of energy, CMEs, that push out and deflect charged particles emitted by the comet itself. The result is a blue hued ion tail for Comet C/2025 A6 (Lemmon) that is not only impressively intricate but takes some unusual turns. This long-duration composite image taken from Alfacar, Spain last month captured this inner Solar System ionic tumult. Comet Lemmon is now fading as it heads out away from the Earth and Sun and back into the outer Solar System.
 
-> _Last Updated: 11/17/2025, 4:47:34 AM (in GMT)_
+> _Last Updated: 11/17/2025, 6:52:42 AM (in GMT)_
