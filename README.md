@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2511/3I_251114.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2511/SATURN2025-11-20-1130.tif)
 
-## 3I/ATLAS: A View from Planet Earth
+## Dione and Rhea Ring Transit
 
 22nd November 2025
 
 ### Explanation: 
 
-Now outbound after its perihelion or closest approach to the Sun on October 29, Comet 3I/ATLAS is only the third known interstellar object to pass through our fair Solar System. Its greenish coma and faint tails are seen against a background of stars in the constellation Virgo in this view from planet Earth, recorded with a small telescope on November 14. But this interstellar interloper is the subject of an on-going, unprecedented Solar System-wide observing campaign involving spacecraft and space telescopes from Earth orbit to the surface of Mars and beyond. And while the comet from another star-system has recently grown brighter, you'll still need a telescope if you want to see 3I/ATLAS from planet Earth. It's now above the horizon in November morning skies and will make its closest approach to Earth, a comfortable 270 million kilometers distant, around December 19.
+Seen to the left of Saturn's banded planetary disk, small icy moons Dione and Rhea are caught passing in front of the gas giant's extensive ring system in this sharp telescopic snapshot. The remarkable image was recorded on November 20, when Saturn's rings were nearly edge-on when viewed from planet Earth. In fact, every 13 to 16 years the view from planet Earth aligns with Saturn's ring plane to produce a series of ring plane crossings. During a ring plane crossing, the interplanetary edge-on perspective makes the thin but otherwise bright rings seem to disappear. By November 23rd Saturn's rings will have reached a minimum angle for now, at their narrowest for viewing from planet Earth, but then start to widen again. Of course, Dione and Rhea orbit Saturn near the ring plane once every 2.7 and 4.5 days respectively, while the next series of Saturn ring plane crossings as seen from Earth will begin again in 2038.
 
-> _Last Updated: 11/22/2025, 4:43:48 AM (in GMT)_
+> _Last Updated: 11/22/2025, 6:48:14 AM (in GMT)_
