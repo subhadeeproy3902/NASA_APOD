@@ -7,10 +7,10 @@
 
 ## Moon Games
 
-29th November 2025
+30th November 2025
 
 ### Explanation: 
 
-This is not a screen from a video game. Nestled below the tree-line, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights. Of course, the Moon is reflecting light from the Sun. At any given time the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible. About three days after New Moon, the Moon was in a waxing crescent phase. The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.
+This is not a screen from a video game. Nestled below the treeline, the small mountain church does look like it might be hiding from Moon though. In the well-composed telephoto snapshot, taken on November 23, the church walls are partly reflecting light from terrestrial flood lights. Of course, the Moon is reflecting light from the Sun. At any given time the Sun illuminates fully half of the Moon's surface, also known as the lunar dayside, but on that night only a sliver of its sunlit surface was visible. About three days after New Moon, the Moon was in a waxing crescent phase. The single exposure was captured shortly after sunset in skies near Danta di Cadore, northern Italy, planet Earth.
 
-> _Last Updated: 11/29/2025, 8:47:43 AM (in GMT)_
+> _Last Updated: 11/30/2025, 3:46:10 AM (in GMT)_
