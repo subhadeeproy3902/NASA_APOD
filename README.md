@@ -13,4 +13,4 @@
 
 How typical is our Solar System?  Studying 3I/ATLAS, a comet just passing through, is providing clues.  Confirmed previous interstellar visitors include an asteroid, a comet, a meteor, and a gas wind dominated by hydrogen and helium. Comet 3I/ATLAS appears relatively normal when compared to Solar System comets, therefore providing more evidence that our Solar System is a somewhat typical star system.  For example, Comet 3I/ATLAS has a broadly similar chemical composition and ejected dust. The featured image was captured last week from Texas and shows a green coma, a wandering blue-tinted ion tail likely deflected by our Sun's wind, and a slight anti-tail, all typical cometary attributes.  The comet, visible with a telescope, passed its closest to the Sun in late October and will pass its closest to the Earth in mid-December, after which it will return to interstellar space and never return.    Explore the Universe: Random APOD Generator
 
-> _Last Updated: 12/1/2025, 6:56:00 AM (in GMT)_
+> _Last Updated: 12/1/2025, 8:54:25 AM (in GMT)_
