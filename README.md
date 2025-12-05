@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/FornaxA_final_apod.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/KXAnd.jpg)
 
-## Galaxies in the Furnace
+## The Bipolar Jets of KX Andromedae
 
 5th December 2025
 
 ### Explanation: 
 
-An example of violence on a cosmic scale, enormous elliptical galaxy NGC 1316 lies about 75 million light-years away toward Fornax, the southern constellation of the Furnace. Investigating the startling sight, astronomers suspect the giant galaxy of colliding with smaller neighbor NGC 1317 seen just right of the large galaxy's center, producing far flung star streams in loops and shells. Light from their close encounter would have reached Earth some 100 million years ago. In the sharp telescopic image, the central regions of NGC 1316 and NGC 1317 appear separated by over 100,000 light-years. Complex dust lanes visible within also indicate that NGC 1316 is itself the result of a merger of galaxies in the distant past. Found on the outskirts of the Fornax galaxy cluster, NGC 1316 is known as Fornax A. One of the visually brightest of the Fornax cluster galaxies it is one of the strongest and largest celestial radio sources with radio emission extending well beyond this one degree wide field-of-view.
+Blasting outward from variable star KX Andromedae, these stunning bipolar jets are 19 light-years long. Recently discovered, they are revealed in unprecedented detail in this deep telescopic image centered on KX And and composed from over 692 hours of combined image data. In fact, KX And is spectroscopically found to be an interacting binary star system consisting of a bright, hot B-type star with a swollen cool giant star as its co-orbiting, close companion. The stellar material from the cool giant star is likely being transferred to the hot B-type star through an accretion disk, with spectacular symmetric jets driven outward perpendicular to the disk itself. The known distance to KX And of 2,500 light-years, angular size of the jets, and estimated inclination of the accretion disk lead to the size estimate for each jet of an astonishing 19 light-years.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm
 
-> _Last Updated: 12/5/2025, 4:50:51 AM (in GMT)_
+> _Last Updated: 12/5/2025, 6:54:30 AM (in GMT)_
