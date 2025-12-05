@@ -13,4 +13,4 @@
 
 An example of violence on a cosmic scale, enormous elliptical galaxy NGC 1316 lies about 75 million light-years away toward Fornax, the southern constellation of the Furnace. Investigating the startling sight, astronomers suspect the giant galaxy of colliding with smaller neighbor NGC 1317 seen just right of the large galaxy's center, producing far flung star streams in loops and shells. Light from their close encounter would have reached Earth some 100 million years ago. In the sharp telescopic image, the central regions of NGC 1316 and NGC 1317 appear separated by over 100,000 light-years. Complex dust lanes visible within also indicate that NGC 1316 is itself the result of a merger of galaxies in the distant past. Found on the outskirts of the Fornax galaxy cluster, NGC 1316 is known as Fornax A. One of the visually brightest of the Fornax cluster galaxies it is one of the strongest and largest celestial radio sources with radio emission extending well beyond this one degree wide field-of-view.
 
-> _Last Updated: 12/5/2025, 3:40:19 AM (in GMT)_
+> _Last Updated: 12/5/2025, 4:50:51 AM (in GMT)_
