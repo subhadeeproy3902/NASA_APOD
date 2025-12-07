@@ -13,4 +13,4 @@
 
 It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm
 
-> _Last Updated: 12/7/2025, 6:49:27 AM (in GMT)_
+> _Last Updated: 12/7/2025, 8:46:05 AM (in GMT)_
