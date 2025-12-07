@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/moonshorty_apollo17_1498.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/sunspectrum_mpso_3071.jpg)
 
-## Apollo 17 at Shorty Crater
+## The Sun and Its Missing Colors
 
 7th December 2025
 
 ### Explanation: 
 
-Fifty three years ago, in December of 1972, Apollo 17 astronauts Eugene Cernan and Harrison Schmitt spent about 75 hours on the Moon exploring the Taurus-Littrow valley, while colleague Ronald Evans orbited overhead. This snapshot from another world was taken by Cernan as he and Schmitt roamed the lunar valley's floor. The image shows Schmitt next to the lunar rover parked at the southeast rim of Shorty Crater.  That location is near the spot where geologist Schmitt discovered orange lunar soil. The Apollo 17 crew returned with 110 kilograms of rock and soil samples, more than was returned from any of the other lunar landing sites. And for now, Cernan and Schmitt are the last to walk on the Moon.
+It is still not known why the Sun's light is missing some colors.  Here are all the visible colors of the Sun, produced by passing the Sun's light through a prism-like device.  The spectrum was created at the McMath-Pierce Solar Observatory and shows, first off, that although our white-appearing Sun emits light of nearly every color, it appears brightest in yellow-green light.  The dark patches in the featured spectrum arise from gas at or above the Sun's surface absorbing sunlight emitted below.  Since different types of gas absorb different colors of light, it is possible to determine what gasses compose the Sun.  Helium, for example, was first discovered in 1868 on a solar spectrum and only later found here on Earth.  Today, the majority of spectral absorption lines have been identified - but not all.   Free APOD Lecture in Phoenix: Wednesday, December 10 at 7 pm
 
-> _Last Updated: 12/7/2025, 4:51:27 AM (in GMT)_
+> _Last Updated: 12/7/2025, 6:49:27 AM (in GMT)_
