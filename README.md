@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/Soul_Bugin_3710.jpg)
 
-## Flying Over the Earth at Night
+## The Heart of the Soul Nebula
 
 9th December 2025
 
 ### Explanation: 
 
-Many wonders are visible when flying over the Earth at night.  Such visual spectacles occur every day for astronauts in low Earth orbit, but the featured video captured several from the International Space Station (ISS) in 2011 and set them to rousing music.  Passing below are white clouds, orange city lights, lightning flashes in thunderstorms, and dark blue seas.  On the horizon is the golden haze of Earth's thin atmosphere, frequently decorated by dancing auroras as the video progresses.  The green parts of auroras typically remain below the space station, but the station flies right through the red and purple auroral peaks.  Solar panels of the ISS are seen around the frame edges.  The ominous wave of approaching brightness at the end of each sequence is just the dawn of the sunlit half of Earth, a dawn that occurs every 90 minutes.   Free APOD Lecture in Phoenix: This Wednesday (December 10) at 7 pm
+This cosmic close-up looks deep inside the Soul Nebula. The dark and brooding dust clouds outlined by bright ridges of glowing gas are cataloged as IC 1871. About 25 light-years across, the telescopic field of view spans only a small part of the much larger Heart and Soul nebulae. At an estimated distance of 6,500 light-years, the star-forming complex lies within the Perseus spiral arm of the Milky Way, seen in planet Earth's skies toward the constellation of the Queen of Aethiopia (Cassiopeia). An example of triggered star formation, the dense star-forming clouds of IC 1871 are themselves sculpted by the intense winds and radiation of the region's massive young stars. This color image adopts a palette made popular in Hubble images of star-forming regions.
 
-> _Last Updated: 12/9/2025, 4:50:02 AM (in GMT)_
+> _Last Updated: 12/9/2025, 6:55:47 AM (in GMT)_
