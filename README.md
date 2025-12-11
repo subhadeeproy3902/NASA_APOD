@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/IC434NM.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/NGC1532.jpg)
 
-## The Horsehead Nebula
+## Galaxies in the River
 
 11th December 2025
 
 ### Explanation: 
 
-Sculpted by stellar winds and radiation, this dusty interstellar molecular cloud has by chance assumed an immediately recognizable shape. Fittingly known as The Horsehead Nebula, it lies some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years "tall," the dark cloud is cataloged as Barnard 33, first identified on a photographic plate taken in the early 20th century.  B33 is visible primarily because its obscuring dust is silhouetted against the glow of emission nebula IC 434.  Hubble space telescope images from the early 21st century find young stars forming within B33. Of course, the magnificent interstellar cloud will slowly shift its apparent shape over the next few million years. But for now, the Horsehead Nebula is a rewarding though difficult object to view with small telescopes from planet Earth.
+Large galaxies grow by eating small ones. Even our own galaxy engages in a sort of galactic cannibalism, absorbing small galaxies that are too close and are captured by the Milky Way's gravity. In fact, the practice is common in the universe and illustrated by this striking pair of interacting galaxies from the banks of the southern constellation Eridanus, The River. Located over 50 million light years away, the large, distorted spiral NGC 1532 is seen locked in a gravitational struggle with dwarf galaxy NGC 1531, a struggle the smaller galaxy will eventually lose. Seen nearly edge-on, in this sharp image spiral NGC 1532 spans about 100,000 light-years. The NGC 1532/1531 pair is thought to be similar to the well-studied system of face-on spiral and small companion known as M51.
 
-> _Last Updated: 12/11/2025, 4:56:28 AM (in GMT)_
+> _Last Updated: 12/11/2025, 6:57:25 AM (in GMT)_
