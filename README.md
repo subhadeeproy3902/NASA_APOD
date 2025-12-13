@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/Firefox-Lehtonen-Dennis.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/art001e002132.jpg)
 
-## Northern Fox Fires
+## Orion and the Ocean of Storms
 
 13th December 2025
 
 ### Explanation: 
 
-In a Finnish myth, when an arctic fox runs so fast that its bushy tail brushes the mountains, flaming sparks are cast into the heavens creating the northern lights. In fact the Finnish word "revontulet", a name for the aurora borealis or northern lights, can be translated as fire fox. So that evocative myth took on a special significance for the photographer of this northern night skyscape from Finnish Lapland near Kilpisjarvi Lake. The snowy scene is illuminated by moonlight. Saana, an iconic fell or mountain of Lapland, rises at the right in the background. But as the beautiful nothern lights danced overhead, the wild fire fox in the foreground enthusiastically ran around the photographer and his equipment, making it difficult to capture in this lucky single shot.  Watch: The Geminid Meteor Shower
+On December 5, 2022, a camera on board the uncrewed Orion spacecraft captured this view as Orion approached its return powered flyby of the Moon.  Beyond one of Orion's extended solar arrays lies dark, smooth, terrain along the western edge of the Oceanus Procellarum. Prominent on the lunar nearside Oceanus Procellarum, the Ocean of Storms, is the largest of the Moon's lava-flooded maria. The lunar terminator, the shadow line between lunar night and day, runs along the left of this frame. The 41 kilometer diameter crater Marius is top center, with ray crater Kepler peeking in at the edge, just right of the solar array wing. Kepler's bright rays extend to the north and west, reaching the dark-floored Marius. By December 11, 2022 the Orion spacecraft had returned to its home world. The historic Artemis 1 mission ended with Orion's successful splashdown in planet Earth's water-flooded Pacific Ocean.  Watch: The Geminid Meteor Shower
 
-> _Last Updated: 12/13/2025, 4:48:10 AM (in GMT)_
+> _Last Updated: 12/13/2025, 6:52:14 AM (in GMT)_
