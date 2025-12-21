@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/tatooimg_145020251217.jpeg)
+![NASA APOD](undefined)
 
-## A Solstice Sun Tattoo
+## Solstice on a Spinning Earth
 
 21st December 2025
 
 ### Explanation: 
 
-The word solstice is from the Latin for Sun and to pause or stand still. And in the days surrounding a solstice the Sun's annual north-south drift in planet Earth's sky does slow down, pause, and then reverse direction. So near the solstice the daily path of the Sun through the sky really doesn't change much. In fact, near the December solstice, the Sun's consistent, low arc through northern hemisphere skies, along with low surface temperatures, has left a noticeable imprint on this path to the mountain town of Peaio in northern Italy. The morning frost on the road has melted away only where the sunlight was able to reach the ground. But it remains in the areas persistently shadowed by the fence, tattooing in frost an image of the fence on the asphalt surface.
+Can you tell that today is a solstice by the tilt of the Earth?  Yes. At a solstice, the Earth's terminator -- the dividing line between night and day -- is tilted the most.  The featured time-lapse video demonstrates this by displaying an entire year on planet Earth in twelve seconds. From geosynchronous orbit, the Meteosat 9 satellite recorded infrared images of the Earth every day at the same local time.  The video started at the September 2010 equinox with the terminator line being vertical: an equinox. As the Earth revolved around the Sun, the terminator was seen to tilt in a way that provides less daily sunlight to the northern hemisphere, causing winter in the north. At the most tilt, winter solstice occurred in the north, and summer solstice in the south.  As the year progressed, the March 2011 equinox arrived halfway through the video, followed by the terminator tilting the other way, causing winter in the southern hemisphere -- and summer in the north. The captured year ends again with the September equinox, concluding another of the billions of trips the Earth has taken -- and will take -- around the Sun.    APOD Review: RJN's Night Sky Network Lecture
 
-> _Last Updated: 12/21/2025, 4:54:58 AM (in GMT)_
+> _Last Updated: 12/21/2025, 6:52:36 AM (in GMT)_
