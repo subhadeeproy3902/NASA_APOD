@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2512/IMG_7311.jpeg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2512/3IATLAS_2025_12_15_JuneLake_DEBartlett.jpg)
 
-## Unicorn, Fox Fur and Christmas Tree
+## 3I/ATLAS Flyby
 
 26th December 2025
 
 ### Explanation: 
 
-A star forming region cataloged as NGC 2264, this beautiful but complex arrangement of interstellar gas and dust is about 2,700 light-years distant in the faint but fanciful constellation Monoceros, the Unicorn. Seen toward the celestial equator and near the plane of our Milky Way galaxy, the seasonal skyscape mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. Where the otherwise obscuring dust clouds lie close to the hot, young stars, they also reflect starlight, forming blue reflection nebulae. In fact, bright variable star S Monocerotis is immersed in a blue-tinted haze near center. Arrayed with a simple triangular outline above S Monocerotis, the stars of NGC 2264 are popularly known as the Christmas Tree star cluster. Carved by energetic starlight, the Cone Nebula sits upside down at the apex of this cosmic Christmas tree while the dusty, convoluted pelt of glowing gas and dust under the tree is called the Fox Fur Nebula. This rich telescopic frame spans about 1.5 degrees or 3 full moons on the sky top to bottom, covering nearly 80 light-years at the distance of NGC 2264.
+Attention grabbing interstellar visitor 3I/ATLAS made its not-so-close flyby of our fair planet on December 19 at a distance of 1.8 astronomical units. That's about 900 light-seconds. Still, this deep exposure captures the comet from another star system as it gently swept across a faint background of stars in the constellation Leo about 4 days earlier, on the night of December 15. Though faint, colors emphasized in the image data, show off the comet's yellowish dust tail and bluish ion tail along with a greenish tinged coma. And even while scrutinized by arrays of telescopes and spacecraft from planet Earth, 3I ATLAS is headed out of the Solar System. It's presently moving outward along a hyperbolic trajectory at about 64 kilometers per second relative to the Sun, too fast to be bound the Sun's gravity.
 
-> _Last Updated: 12/26/2025, 4:55:40 AM (in GMT)_
+> _Last Updated: 12/26/2025, 6:55:31 AM (in GMT)_
