@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2601/AuroraFireworksstormRoiLevi.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png)
 
-## Auroral Corona
+## NanoSail-D2
 
 2nd January 2026
 
 ### Explanation: 
 
-Cycle 25 solar maximum made 2025 a great year for aurora borealis (or aurora australis) on planet Earth. And the high level of solar activity should extend into 2026. So, while you're celebrating the arrival of the new year, check out this spectacular auroral display that erupted in starry night skies over Kirkjufell, Iceland. The awesome auroral corona, energetic curtains of light streaming from directly overhead, was witnessed during a strong geomagnetic storm triggered by intense solar activity near the March 2025 equinox. This northland and skyscape captures the evocative display in a 21 frame panoramic mosaic.
+In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.
 
-> _Last Updated: 1/2/2026, 4:58:46 AM (in GMT)_
+> _Last Updated: 1/2/2026, 6:57:31 AM (in GMT)_
