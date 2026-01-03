@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2601/NanosailD2_reprocessed1a.png)
+![NASA APOD](https://apod.nasa.gov/apod/image/2601/moonwalk1.jpg)
 
-## NanoSail-D2
+## Full Moonlight
 
 3rd January 2026
 
 ### Explanation: 
 
-In 2011, on January 20, NASA's NanoSail-D2 unfurled a very thin and very reflective 10 square meter sail becoming the first solar sail spacecraft in low Earth orbit. Often considered the stuff of science fiction, sailing through space was suggested 400 years ago by astronomer Johannes Kepler, who had observed comet tails blown by the solar wind. But modern solar sail spacecraft designs, like NanoSail-D2, Japan's interplanetary spacecraft IKAROS, or the Planetary Society's Lightsail A, rely on the small but continuous pressure from sunlight itself for thrust. Glinting in the sunlight as it circled planet Earth, NanoSail-D2's solar sail was periodically bright and visible to the eye. These remarkably detailed images were captured by manually tracking the orbiting solar sail spacecraft with a small telescope.
+The Full Moon is the brightest lunar phase, and tonight you can stand in the light of the first Full Moon of 2026. In fact, the Moon's full phase occurs on January 3 at 10:03 UTC, while only about 7 hours later planet Earth reaches its 2026 perihelion, the closest point in its elliptical orbit around the Sun, at 17:16 UTC. January's Full Moon was also not far from its own perigee, or closest approach to planet Earth. For this lunation the Moon's perigee was on January 1 at 21:44 UTC. You can also spot planet Jupiter, near its brightest for 2026 and close on the sky to the Full Moon tonight. But while you're out skygazing don't forget to look for rare, bright fireballs from the Quadrantid meteor shower.
 
-> _Last Updated: 1/3/2026, 4:53:40 AM (in GMT)_
+> _Last Updated: 1/3/2026, 6:53:59 AM (in GMT)_
