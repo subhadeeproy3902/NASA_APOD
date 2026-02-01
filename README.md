@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2601/art001e000672-orig.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2602/MarsHappyFace_mgs_525.jpg)
 
-## Artemis I: Flight Day 13
+## Galle: Happy Face Crater on Mars
 
 1st February 2026
 
 ### Explanation: 
 
-On flight day 13 (November 28, 2022) of the Artemis 1 mission, the Orion spacecraft reached its maximum distance from Earth. At over 430,000 kilometers from Earth, its distant retrograde orbit also puts Orion nearly 70,000 kilometers from the Moon. In the same field of view in this video frame from flight day 13, planet and large natural satellite even appear about the same apparent size from the spacecraft's perspective. On flight day 26 (December 11, 2022), the uncrewed spacecraft splashed down on its home world concluding the historic Artemis I mission. The Artemis II mission, carrying 4 astronauts around the moon and back again, will launch no earlier than February 8.
+Mars has put on a happy face.  The Martian crater Galle is famous because it has internal markings that make it look like a face that is both smiling and winking.  These markings were originally discovered in the 1970s in pictures taken by the Viking Orbiter.  The Mars Global Surveyor (MGS) spacecraft that orbited Mars from 1996 to 2006 captured the featured picture.  Happy Face Crater and its iconic features were formed by chance billions of years ago when a city-sized asteroid slammed into the Martian surface.  All rocky planets and moons in our Solar System show impact craters, with the highest number of craters found on Earth's Moon and the planet Mercury. Earth and Venus would show the most, though, were it not for weather and erosion.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
-> _Last Updated: 2/1/2026, 4:40:08 AM (in GMT)_
+> _Last Updated: 2/1/2026, 7:21:40 AM (in GMT)_
