@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2602/ngc-1275-perseus-cluster.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2602/CasA_nircam_4096.jpg)
 
-## NGC 1275 in the Perseus Cluster
+## Supernova Remnant Cassiopeia A
 
 6th February 2026
 
 ### Explanation: 
 
-Active galaxy NGC 1275 is the central, dominant member of the large and relatively nearby Perseus Cluster of Galaxies. Wild-looking at visible wavelengths, the active galaxy is also a prodigious source of x-rays and radio emission. NGC 1275 accretes matter as entire galaxies fall into it, ultimately feeding a supermassive black hole at the galaxy's core. Narrowband image data used in this sharp telescopic image highlights the resulting galactic debris and filaments of glowing gas, some up to 20,000 light-years long. The filaments persist in NGC 1275, even though the turmoil of galactic collisions should destroy them.  What keeps the filaments together? Observations indicate that the structures, pushed out from the galaxy's center by the black hole's activity, are held together by magnetic fields. Also known as Perseus A, NGC 1275 itself spans over 100,000 light years and lies about 230 million light years away.
+Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After only a few million years for the most massive stars, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the supernova explosion that created this remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light 11,000 years to reach us. This sharp NIRCam image from the James Webb Space Telescope shows the still-hot filaments and knots in the supernova remnant. The whitish, smoke-like outer shell of the expanding blast wave is about 20 light-years across. A series of light echoes from the massive star's cataclysmic explosion are also identified in Webb's detailed images of the surrounding interstellar medium.
 
-> _Last Updated: 2/6/2026, 4:26:17 AM (in GMT)_
+> _Last Updated: 2/6/2026, 5:37:55 AM (in GMT)_
