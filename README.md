@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2602/greencompany_rive_2916.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2602/Sunspots2025_SdoSanli_3450.jpg)
 
-## In Green Company: Aurora over Norway
+## A Year of Sunspots
 
 11th February 2026
 
 ### Explanation: 
 
-Raise your arms if you see an aurora. With those instructions, two nights went by with, well, clouds -- mostly. On the third night of returning to same peaks, though, the sky not only cleared up but lit up with a spectacular auroral display. Arms went high in the air, patience and experience paid off, and the creative featured image was captured as a composite from three separate exposures. The setting is a summit of the Austnesfjorden (a fjord) close to the town of Svolvear on the Lofoten islands in northern Norway. The year was 2014. This year, our Sun is just passing solar maximum, the peak in its 11-year surface activity cycle. As expected, some spectacular auroras have recently resulted.   Portal Universe: Random APOD Generator
+How many sunspots can you see?  The central image shows the many sunspots that occurred in 2025, month by month around the circle, and all together in the grand central image.  Each sunspot is magnetically cooled and so appears dark -- and can last from days to months. Although the featured images originated from NASA's Solar Dynamics Observatory, sunspots can be easily seen with a small telescope or binoculars equipped with a solar filter. Very large sunspot groups like recent AR 4366 can even be seen with eclipse glasses. Sunspots are still counted by eye, but the total number is not considered exact because they frequently change and break up.  Last year, 2025, coincided with a solar maximum, the period of most intense magnetic activity during its 11-year solar cycle.  Our Sun remains unpredictable in many ways, including when it ejects solar flares that will impact the Earth, and how active the next solar cycle will be.
 
-> _Last Updated: 2/11/2026, 4:40:00 AM (in GMT)_
+> _Last Updated: 2/11/2026, 7:35:42 AM (in GMT)_
