@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2603/Shapley1_Bresseler_2092.jpg)
 
-## Flying over the North Pole of Mars
+## Shapley 1: An Annular Planetary Nebula
 
 4th March 2026
 
 ### Explanation: 
 
-If you could fly over the North Pole of Mars, what would you see?  Images from ESA’s Mars Express mission in 2019 were compiled into the featured video which shows just such a trip.  First you see below you a landscape tinted orange by rusted iron in the fine soil, with some land appearing darker due to exposed rock.  Soon the northern polar cap comes into view, mostly white because of its reflective frozen water.  Surrounding the polar cap is the North Polar Basin, a layered depression covered with dust and sand.  The frames in the featured video were captured during northern Martian Spring when the carbon-dioxide ice is evaporating, leaving the underlying water-ice in the cap. Mars Express continues to study the Martian surface and look for clues about the Red Planet's ancient climate and potential for life.
+What’s looking back at you isn’t a cosmic eye, but Shapley 1, a beautifully symmetric planetary nebula.  Shapley 1, also known as the Fine Ring Nebula or PLN 329+2.1, bejewels the southern sky constellation of the Carpenter's Square  (Norma).  The nebula is the result of a star near the mass of our Sun running out of fuel and shedding its outer layers.  Glowing oxygen from those expelled layers makes up the circular halo.  The bright central point is actually a binary: a white dwarf, the remaining stellar core after the outer layers are expelled into space, and another star, orbiting each other every 2.9 days.  Shapley 1’s annular shape is due to our top-down view of the system and provides insight into the influence of central stars on planetary nebula structures.
 
-> _Last Updated: 3/4/2026, 4:19:40 AM (in GMT)_
+> _Last Updated: 3/4/2026, 5:30:13 AM (in GMT)_
