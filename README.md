@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2603/MayanMilkyWay_Fernandez_1600.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg)
 
-## Equinox at the Pyramid of the Feathered Serpent
+## NGC 1566: The Spanish Dancer Galaxy
 
-15th March 2026
+16th March 2026
 
 ### Explanation: 
 
-To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. In a few days another equinox will occur -- not only at Temple of Kukulcán, but all over planet Earth.
+If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
-> _Last Updated: 3/15/2026, 9:02:49 AM (in GMT)_
+> _Last Updated: 3/16/2026, 5:03:40 AM (in GMT)_
