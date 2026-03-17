@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2603/SpanishDancer_Hubble_3716.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2603/APOD_Sub_Tadpoles_NicoCarver.jpg)
 
-## NGC 1566: The Spanish Dancer Galaxy
+## The Tadpoles of IC 410
 
-16th March 2026
+17th March 2026
 
 ### Explanation: 
 
-If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters, red emission nebulas, and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
+This telescopic close-up shows off the central regions of otherwise faint emission nebula IC 410, captured under backyard skies. Presented in a Hubble color palette, the image combines visible broadband and narrowband data with data from the near-infrared. Below and right of center are two remarkable inhabitants of the interstellar pond of gas and dust. the Tadpoles of IC 410. Partly obscured by foreground dust, the nebula itself surrounds NGC 1893, a young galactic cluster of stars. Formed in the interstellar cloud a mere 4 million years ago, the intensely hot, bright cluster stars energize the glowing gas. But the cosmic tadpoles themselves are composed of denser cooler gas and dust. Around 10 light-years long they are likely sites of ongoing star formation. Sculpted by stellar winds and radiation their heads are outlined by bright ridges of ionized gas while their tails trail away from the cluster's central young stars. IC 410 lies some 10,000 light-years away, toward the nebula-rich constellation Auriga.
 
-> _Last Updated: 3/16/2026, 9:41:38 AM (in GMT)_
+> _Last Updated: 3/17/2026, 4:29:28 AM (in GMT)_
