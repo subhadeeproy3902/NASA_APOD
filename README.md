@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2603/NGC1300-LRGB.jpg)
+![NASA APOD](undefined)
 
-## Galaxies in the River: NGC 1300 and NGC 1297
+## Leaving Earth
 
-21st March 2026
+22nd March 2026
 
 ### Explanation: 
 
-Spiral NGC 1300 and elliptical NGC 1297 are galaxies that lie on the banks of the southern constellation Eridanus (The River). At 70 million light-years distant or more, both are members of the Eridanus Galaxy Cluster. About 100,000 light-years across, at lower left in this sharp, galaxy group photo NGC 1300 is seen face-on with a prominent central bar and grand, sweeping spiral arms. Like other spiral galaxies, including our own barred spiral Milky Way Galaxy, NGC 1300 is thought to have a supermassive central black hole. A contrast in appearance and slightly more distant, NGC 1297 is the roughly spherical large elliptical galaxy near the top of the frame. With little active star formation, elliptical galaxies are composed of older populations of stars and are likely he result of multiple collisions and mergers with spirals.
+What would it look like to leave planet Earth? Such an event was recorded visually in great detail by the MESSENGER spacecraft as it swung back past the Earth in 2005 on its way in toward the planet Mercury. Earth can be seen rotating in this time-lapse video, as it recedes into the distance. The sunlit half of Earth is so bright that background stars are not visible. The robotic MESSENGER spacecraft orbit around Mercury from 2011 to 2015 has conducted the first complete map of the surface. On occasion, MESSENGER peered back at its home world. MESSENGER is one of the few things created on the Earth that will never return.  At the end of its mission, MESSENGER was purposefully crashed into Mercury's surface.   Almost Hyperspace: Random APOD Generator
 
-> _Last Updated: 3/21/2026, 8:58:29 AM (in GMT)_
+> _Last Updated: 3/22/2026, 4:32:18 AM (in GMT)_
