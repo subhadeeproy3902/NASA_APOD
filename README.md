@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2603/Message_Arecibo_2000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2603/CenA_SADR_5000.jpg)
 
-## A Message from Earth
+## Peculiar Elliptical Galaxy Centaurus A
 
-29th March 2026
+30th March 2026
 
 ### Explanation: 
 
-What are these Earthlings trying to tell us?  The featured message was broadcast from Earth towards the globular star cluster M13 in 1974.  During the dedication of an upgrade to the Arecibo Observatory - then the largest single radio telescope in the world - a string of 1's and 0's representing the diagram was sent.  This attempt at extraterrestrial communication was mostly ceremonial - humanity regularly broadcasts radio and television signals out into space accidentally.  Even were this message received, M13 is so far away we would have to wait almost 50,000 years to hear an answer.  The featured message gives a few simple facts about humanity and its knowledge: from left to right are numbers from one to ten, atoms including hydrogen and carbon, some interesting molecules, DNA, a human with description, basics of our Solar System, and basics of the sending telescope.  Several searches for extraterrestrial intelligence are currently underway.   Explore the Universe: Random APOD Generator
+What's happened to the center of this galaxy?  Dramatic dust lanes run across the center of unusual elliptical galaxy Centaurus A. These dust lanes are so thick they almost completely obscure the galaxy's center in visible light.  This is particularly unusual as Cen A's older stars and oval shape are characteristic of a giant elliptical galaxy, a galaxy type typically low in dark dust.  Pictured in this deep image is a complex network of foreground gas and dust, as well as shells of dim stars and a jet projecting to the upper right.  Also known as NGC 5128, Cen A is surely the result of a galactic collision where many young dust-creating stars were formed.  However, details of the creation of Cen A's unusually active center and iconic central dust lanes are still being researched.  Cen A lies only 13 million light years away, making it the closest active galaxy.    Jigsaw Galaxy: Astronomy Puzzle of the Day
 
-> _Last Updated: 3/29/2026, 9:06:38 AM (in GMT)_
+> _Last Updated: 3/30/2026, 5:10:36 AM (in GMT)_
