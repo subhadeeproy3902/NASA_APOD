@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/BH_Merger_Tarantula.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/art002e000192.jpg)
 
-## Caught in the Web: Visualization of a Black Hole Merger in the Tarantula Nebula
+## Hello World
 
-3rd April 2026
+4th April 2026
 
 ### Explanation: 
 
-How can we see what is invisible? Black holes are not easy to see in the dark cosmic night, but astronomers can find them by analyzing their gravitational effects on matter, light and spacetime. The featured image shows an illustration that combines a simulation of a black hole binary system in its final "death-dance" with an astrophotography image of the Tarantula Nebula in the background. Even though black holes don't emit light, they distort the path of light rays, acting like a gravitational lens. As a result, the nebula appears extremely distorted, forming Einstein rings and multiple images.  Tarantula Nebula lies in the Large Magellanic Cloud, a dwarf galaxy that is one of the satellite galaxies of the Milky Way, 160,000 light-years away. That is more than 1,000 times closer than any of the binary black hole mergers detected so far. We'll probably never detect a merger so close to home!
+From pole to pole our fair planet is captured in this snapshot from space, an evocative image from a window of the Orion spacecraft Integrity. From the spacecraft's perspective the Sun is moving behind Earth's bright limb along the lower right. Africa and the Iberian peninsula are in view on the pale blue planet's surface, while aurorae crown Earth's south and north poles at top right and bottom left. Commander Reid Wiseman took the historic picture on Artemis II mission flight day 2 (April 2), after the completion of the planned translunar injection burn. That burn boosted the spacecraft out of Earth orbit, sending Integrity and crew on a trajectory that will take them around the Moon and back again. That's a journey humans last made over 50 years ago.
 
-> _Last Updated: 4/3/2026, 9:30:09 AM (in GMT)_
+> _Last Updated: 4/4/2026, 4:29:33 AM (in GMT)_
