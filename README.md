@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/R3Panstarrs_Rodrigues_1707.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/Ngc602_Hubble_3749.jpg)
 
-## Comet R3 (PanSTARRS) Brightens
+## NGC 602 and Beyond
 
-12th April 2026
+13th April 2026
 
 ### Explanation: 
 
-Comet R3 is brightening rapidly -- will it survive?  C/2025 R3 (PanSTARRS) has been slowly brightening and extending an ion tail since its discovery last year.  This shedding mountain of dirty ice puts on its best sky show this month, though, because it passes its closest to both the Sun (April 19) and the Earth (April 25).  The featured image, showing R3 already sporting a tail extending over 10 degrees, was taken two nights ago from Sion, Switzerland with the big mountain Bietschhorn on the left.  Comet R3 will be visible during mid-April before sunrise. Although the future brightness of any comet is hard to predict, the brightness of R3 makes it already a good camera comet and it may become visible to the unaided eye in the next week.  Comet R3's physical future is also unknown because, like Comet A1 (MAPS) earlier this month, it may disintegrate when it passes its closest to the Sun.  Or it may live to leave the Solar System.    Growing Gallery: Comet R3 in 2026
+The clouds may look like an oyster, and the stars like pearls, but look beyond. Near the outskirts of the Small Magellanic Cloud, a satellite galaxy some 200 thousand light-years distant, lies 5 million year young star cluster NGC 602. Surrounded by natal gas and dust, NGC 602 is featured in this stunning Hubble image of the region. Fantastic ridges and swept back shapes strongly suggest that energetic radiation and shock waves from NGC 602's massive young stars have eroded the dusty material and triggered a progression of star formation moving away from the cluster's center. At the estimated distance of the Small Magellanic Cloud, the featured picture spans about 200 light-years, but a tantalizing assortment of background galaxies are also visible in this sharp multi-colored view. The background galaxies are hundreds of millions of light-years or more beyond NGC 602.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
-> _Last Updated: 4/12/2026, 9:25:43 AM (in GMT)_
+> _Last Updated: 4/13/2026, 5:26:50 AM (in GMT)_
