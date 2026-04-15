@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/CometR3_Hamdi_2710.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/iss_moon_transit.jpeg)
 
-## The Long Wispy Tail of Comet R3 (PanSTARRS)
+## The ISS Transits the Moon
 
-14th April 2026
+15th April 2026
 
 ### Explanation: 
 
-Why does Comet R3 (PanSTARRS) have a wispy tail?  The newest bright member of the inner Solar System, Comet C/2025 R3 (PanSTARRS) is already extending an impressive stream of glowing gas. This tail starts from an unseen central nucleus of dirty ice that is likely a few kilometers across. The nucleus is warmed by the Sun and emits a cloud of neutral gas into a coma that glows light green. Nuclear gas ionized by energetic sunlight is pushed away from the Sun by the solar wind into an ion tail that glows light blue.  The wispy nature of the ion tail is caused by the constantly changing structure of the solar wind.  Pictured from Rhode Island, USA two days ago, Comet R3 (PanSTARRS) shows off a many-degree ion tail.  Comet R3 (PanSTARRS) is best seen before dawn from northern skies for another 10 days, after which it will be best visible from southern skies.    Growing Gallery: Comet R3 in 2026
+Nope, that is not an alien spaceship landing on the Moon! This is an image of the International Space Station (ISS) as it begins to transit in front of the Moon. The ISS is in low-Earth orbit (LEO) where it wizzes around the Earth every 90 minutes. Orbiting the Earth 16 times per day	 for 25 years, the ISS has photobombed many familiar celestial objects including Venus, Mars, Saturn, and the Sun. Thousands of experiments led by researchers from over one hundred countries have been conducted on the ISS. Growing protein crystals in low-gravity was one of the first experiments onboard the ISS and continues to contribute to new medical treatments. ISS astronauts study plant growth, water recycling, human health, and more to support the Artemis missions which will take humans farther than they’ve ever gone before. Next time you are out and about at night, try to  spot the ISS zooming across the sky!
 
-> _Last Updated: 4/14/2026, 9:03:06 AM (in GMT)_
+> _Last Updated: 4/15/2026, 5:20:30 AM (in GMT)_
