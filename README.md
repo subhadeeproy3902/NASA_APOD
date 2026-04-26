@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/sequenzasunsetnebida.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2604/MysticPillar_HubbleSchmidt_1433.jpg)
 
-## The Persistence of Sunlight
+## Mystic Mountain Monster being Destroyed
 
 26th April 2026
 
 ### Explanation: 
 
-This seaside sunset offered a surreal experience, captured in a sea and skyscape from the west coast of Sardinia, Italy, planet Earth. The Daliesque scene is a composition of sequential exposures made with a camera and long telephoto lens. The Sun is not melting, though. Its shifting and fluid appearance as it nears the horizon is caused as refraction along the line of sight changes and creates distorted images or mirages of the reddened solar disk. The changes in atmospheric refraction correspond to atmospheric layers with sharply different temperatures and densities. Another famous but fleeting effect of atmospheric refraction produced by a long sight-line to the setting (or rising) Sun is often called the green flash.
+Inside the head of this interstellar monster is a star that is slowly destroying it.  The huge monster, actually an inanimate series of pillars of gas and dust, measures light years in length.  The in-head star is not itself visible through the opaque interstellar dust but is bursting out partly by ejecting opposing beams of energetic particles called Herbig-Haro jets.  Located about 7,500 light years away in the Carina Nebula and known informally as Mystic Mountain, the appearance of these pillars is dominated by dark dust even though they are composed mostly of clear hydrogen gas.  The featured image was taken with the Hubble Space Telescope. All over these pillars, the energetic light and winds from massive newly formed stars are evaporating and dispersing the dusty stellar nurseries in which they formed.  Within a few million years, the head of this giant, as well as most of its body, will have been completely evaporated by internal and surrounding stars.
 
-> _Last Updated: 4/26/2026, 3:47:13 AM (in GMT)_
+> _Last Updated: 4/26/2026, 5:26:39 AM (in GMT)_
