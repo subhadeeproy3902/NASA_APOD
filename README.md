@@ -7,10 +7,10 @@
 
 ## The Moon, Venus, and the Pleiades
 
-29th April 2026
+30th April 2026
 
 ### Explanation: 
 
 No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
 
-> _Last Updated: 4/29/2026, 9:17:28 AM (in GMT)_
+> _Last Updated: 4/30/2026, 3:47:38 AM (in GMT)_
