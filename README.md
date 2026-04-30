@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2604/moon_venus_pleiades.jpg)
+![NASA APOD](undefined)
 
-## The Moon, Venus, and the Pleiades
+## Waves on Titan
 
 30th April 2026
 
 ### Explanation: 
 
-No, Earth did not recently acquire six more moons!  Today’s APOD is a combination of images following the Moon, Venus, and the Pleiades across a southern Sicilian sky as twilight turned to evening on April 19. From 2023 to 2029, the Pleiades' and the Moon “visit" each other once per month due to the Pleiades' location in the ecliptic plane. April 2026 saw the celestial alignment of their visit with Venus.  About six stars in the Pleiades cluster (Messier 45) are typically visible with the unaided eye. Due to the cluster’s visibility across the world, there are many myths and legends across cultures associated with the Pleiades. The Haudenosaunee people of North America, for example, say that seven boys danced so enthusiastically that they lifted off into the sky. Astronomers recently found thousands more Pleiades members, showing that after thousands of years of gazing upon this cluster, there is yet more to learn about the Pleiades.
+Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surface.  The featured video shows a simulation of waves on Earth (right) and on Titan (left), under the same conditions (the scale marker is in meters). A light breeze would create taller, slower-moving waves on Titan than on Earth, because the lakes there are filled with light liquid hydrocarbons, and because of Titan's low gravity and higher atmospheric pressure. In a couple of years, NASA expects to launch the Dragonfly mission, which will travel for 6 years and send a rotorcraft to explore Titan and study its microbial habitability.
 
-> _Last Updated: 4/30/2026, 3:47:38 AM (in GMT)_
+> _Last Updated: 4/30/2026, 5:40:05 AM (in GMT)_
