@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2605/M84andM86.png)
 
-## Waves on Titan
+## Markarian's Chain
 
 1st May 2026
 
 ### Explanation: 
 
-Have you ever thought about surfing on an alien world? We can now expand the search for the perfect wave from Earth to the rest of the Solar System, and beyond. Scientists have developed a new model for simulating waves on other planets. Titan is one of the 274 confirmed moons of Saturn to date, and the only object in the solar system (besides Earth) known to have liquid lakes and seas on its surface.  The featured video shows a simulation of waves on Earth (right) and on Titan (left), under the same conditions (the scale marker is in meters). A light breeze would create taller, slower-moving waves on Titan than on Earth, because the lakes there are filled with light liquid hydrocarbons, and because of Titan's low gravity and higher atmospheric pressure. In a couple of years, NASA expects to launch the Dragonfly mission, which will travel for 6 years and send a rotorcraft to explore Titan and study its microbial habitability.
+Near the heart of the Virgo Galaxy Cluster, a string of galaxies known as Markarian's Chain stretches across this telescopic field of view. Anchored in the frame at bottom right by prominent lenticular galaxies, M84 (bottom) and M86, you can follow the chain's gentle arc up and toward the left. Near center you'll spot the pair of interacting galaxies NGC 4438 and NGC 4435, known to some as Markarian's Eyes. An estimated 50 million light-years distant, the Virgo Cluster itself is the nearest galaxy cluster. With up to about 2,000 member galaxies, it has a noticeable gravitational influence on our own Local Group of Galaxies. Within the Virgo Cluster at least seven galaxies in Markarian's Chain  appear to move coherently, while others may appear to be part of the chain by chance.
 
-> _Last Updated: 5/1/2026, 3:47:52 AM (in GMT)_
+> _Last Updated: 5/1/2026, 5:47:19 AM (in GMT)_
