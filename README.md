@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2605/TrifidPillar_Hubble_4074.jpg)
+![NASA APOD](undefined)
 
-## Trifid Pillars and Jets
+## Superplumes Inside Earth
 
 4th May 2026
 
 ### Explanation: 
 
-Dust pillars are like interstellar mountains.  They survive because they are more dense than their surroundings, but they are slowly being  eroded away by a hostile environment.  Visible in the featured picture by the Hubble Space Telescope is the end of a huge gas and dust pillar in the Trifid Nebula (M20), punctuated by a smaller pillar pointing up and an unusual jet pointing to the upper left.  Many of the bright dots are newly formed stars. A star near the small pillar's end is slowly being stripped of its accreting gas by radiation from a tremendously brighter star situated off the top of the image.  The jet extends nearly a light-year and would not be visible without external illumination.  As gas and dust evaporate from the pillars, the hidden stellar source of this jet will likely be uncovered, possibly over the next 20,000 years.   Explore the Universe: Random APOD Generator
+Why are there huge, unusual masses inside the Earth? No one is sure.  By noting how earthquakes rumble through our planet's interior, humanity has discovered two deep structures that appear to have unusual temperatures and/or chemical compositions. One hypothesis holds that the superplumes are sunken debris left over from the Earth-shattering collision that created Earth's Moon about 4.5 billion years ago.  A competing hypothesis is that they are graveyards for old tectonic plates that slowly slid under each other over the past few billion years. No matter their origin, the superplumes are thought to affect Earth’s surface volcanism, possibly creating, for example, island chains such as Hawaii.  Also known as large low-shear-velocity provinces (LLSVPs), Earth's superplumes are visualized in the featured animation.
 
-> _Last Updated: 5/4/2026, 3:47:39 AM (in GMT)_
+> _Last Updated: 5/4/2026, 5:43:16 AM (in GMT)_
