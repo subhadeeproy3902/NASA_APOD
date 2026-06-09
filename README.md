@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2606/R3Tails_Kurak_1973.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2606/Thor_Drudis_4389.jpg)
 
-## Comet R3 PanSTARRS Through Time
+## Thor's Helmet
 
 9th June 2026
 
 ### Explanation: 
 
-What happens to a comet as it leaves our inner Solar System?  Now, the arrival of a comet into the inner Solar System is typically heralded with great fanfare and high hopes that the comet will become bright and photogenic. But on the way out, the comet's nucleus is less warmed by the Sun, less gas and dust are expelled, the bright coma around the nucleus shrinks and fades, and the tail length drops off. Many comets will then return to the outer Solar System and only return in hundreds or thousands of years. In contrast, some comets -- like Comet C/2025 R3 (PanSTARRS) -- receive a gravitational kick from the planets and so will never return. Pictured, Comet R3 PanSTARRs was imaged deeply many nights in early to mid-May near Cerro Paranal in Chile. Later images appear closer to the top and clearly show the shrinking ion tail.    Comet R3 Gallery: Comet R3 PanSTARRS in 2026
+Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown by a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This sharp image is a combination of deep images taken in light emitted by hydrogen (red) and oxygen (blue).  The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.   Sky Surprise: What picture did APOD feature on your birthday? (after 1995)
 
-> _Last Updated: 6/9/2026, 3:48:23 AM (in GMT)_
+> _Last Updated: 6/9/2026, 5:54:06 AM (in GMT)_
