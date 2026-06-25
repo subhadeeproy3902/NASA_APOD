@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2606/crepuscular2.jpg)
 
-## SDO Observes a Coronal Mass Ejection
+## Anticrepuscular Rays over Sicily
 
 25th June 2026
 
 ### Explanation: 
 
-Why does the Sun throw stuff at us? The Sun’s surface is a churning soup of energetic electrons and ions called plasma. The motion of those charged particles creates magnetic field loops that are larger than the Earth. These loops twist, turn, and trap plasma. The featured time-lapse, taken over 2 hours on April 24th, 2026 by the Solar Dynamics Observatory, shows what happens when those magnetic fields become too stressed: they snap and expel billions of tons (trillions of kilograms) of plasma into space at millions of miles (or kilometers) per hour in what is called a coronal mass ejection (CME). The Sun releases a few CMEs each day when it is at the peak of its activity cycle, which passed in 2025. Some of these eruptions hit Earth and can disrupt power grids, disable satellites, and endanger astronauts, which is why space weather monitoring is so important.
+The Sun has just set... in the opposite side of the sky.   Pictured here are anticrepuscular rays apparently converging in the east in this image of the limestone plateau in the heart of the Hyblaean Mountains of southeastern Sicily, in Italy.   How were these anticrepuscular rays formed, if the Sun wasn't there?   After the Sun set (in the west, as usual) its light still illuminated a cloud higher up in the sky.   Partially blocked by the cloud, the sunlight produced patterns of light and shadow, crossing the sky in parallel lines.   Perspective makes it look like they converge in the east, in the same way that train tracks appear to meet in the distance.   This effect can also happen at sunrise, only the directions are exchanged.   In rare cases, both crepuscular and anticrepuscular rays can be seen at the same time.
 
-> _Last Updated: 6/25/2026, 3:48:19 AM (in GMT)_
+> _Last Updated: 6/25/2026, 5:52:08 AM (in GMT)_
