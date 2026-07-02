@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2607/rho_ophiuchi_1024.png)
+![NASA APOD](https://apod.nasa.gov/apod/image/2607/sibling_supernovae.jpg)
 
-## The Cotton Candy Clouds of Rho Ophiuchi
+## Sibling Supernova Remnants
 
 2nd July 2026
 
 ### Explanation: 
 
-Although they look like cotton candy, you cannot eat these clouds! Taken in Cádiz, Spain, today's image features the Rho Ophiuchi complex, a rich tapestry of young and old astronomical phenomena. This colorful cloud complex is a nearby star-forming region containing hundreds of young stellar objects, including protostars and T Tauri stars. Light from the triple star system at its center reflects off of small dust grains to create the blue reflection nebula. Ultraviolet light from hot stars ionizes the surrounding hydrogen gas, creating the red emission nebula. Antares, a red supergiant big enough to engulf the Solar System’s asteroid belt, lights up the yellow region. Dark interstellar dust blocks some of the complex’s color. Recent JWST observations exhibit shadows cast by hidden circumstellar disks, the beginning stages of planet formation. Messier 4, a globular cluster almost as old as the universe, sits in the bottom right and witnesses yet another chaotic burst of youth in the Milky Way.
+What happens when one of the stars in a binary goes supernova?   This image combines visible (yellow), ultraviolet (purple) and infrared light (cyan, red and orange) to show two supernova remnants and their surrounding environment, about 6,000 light-years away.   The younger one is the well-known Jellyfish Nebula in the center (mostly in yellow).   If we could see it by eye, it would appear larger than the full moon in the sky.   The filament shown in purple is part of an older, overlapping supernova remnant, G189.6+3.3.   A new study used data from NASA's Fermi Gamma-ray Space Telescope to piece together their story.   Astronomers believe that there were two stars in a binary system, then the first one exploded as a supernova, kicking away its companion, which also exploded as a supernova tens of thousands of years later, creating the superimposed supernova remnants we see today.   The bright star on the right is actually a triple star system named Propus.
 
-> _Last Updated: 7/2/2026, 3:48:17 AM (in GMT)_
+> _Last Updated: 7/2/2026, 7:50:11 AM (in GMT)_
