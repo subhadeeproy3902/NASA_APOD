@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2607/Torifune_JAXA_1400.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2607/red_sprite.jpg)
 
-## Double Lobed Asteroid Torifune
+## Red Sprites in the Tatacoa Desert
 
-14th July 2026
+15th July 2026
 
 ### Explanation: 
 
-Why is this asteroid a double?  Earlier this month the Japanese robotic spacecraft Hayabusa2 shot past asteroid 98943 Torifune and captured pictures. Although previous observations from distant Earth indicated that Torifune was oblong, Hayabusa2 found that Torifune actually has two joined lobes.  With a length of about four soccer fields, this space rock frequently comes near the Earth as it orbits the Sun, although it is not a threat.  Besides the two lobes, Torifune shows many large boulders, but, surprisingly, no obvious craters, likely because its surface is a pile of rubble.  Like asteroid Arrokoth, it appears that each lobe formed separately before colliding and becoming stuck together.  Hayabusa2 famously encountered asteroid Ryugu in 2018, and now heads for an encounter in 2031 with 1998 KY26, a smaller asteroid that rotates unusually fast and might have reservoirs of ice.
+Is there an angry Sith using force lightning in the Tatacoa Desert? This is not science fiction, but a red sprite with multiple streamers! Ordinary lightning occurs when thundercloud particles collide, lose their electrons, and build up negative charge at the cloud bottom. The cloud’s negative charge repels negative charge deeper into the Earth, leaving Earth’s surface positively charged. The opposite charges attract, reaching towards each other and superheating the air into a white strike of plasma. Red sprites are millisecond events triggered by positive cloud-to-ground lightning. They extend up into the mesosphere where the air is too thin for thunder. Their red glow comes from heated molecular nitrogen. There are several potential causes for red sprites, including that the preceding positive lightning exposes the negatively charged cloud core to the positively charged upper atmosphere, allowing those charges to connect. NASA’s Juno has observed sprites on Jupiter, indicating that sprites occur on other planets!
 
-> _Last Updated: 7/14/2026, 8:36:57 AM (in GMT)_
+> _Last Updated: 7/15/2026, 5:14:52 AM (in GMT)_
