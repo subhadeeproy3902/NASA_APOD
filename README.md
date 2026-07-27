@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2607/Bubble_Piechnik_1616.jpg)
 
-## Simulation TNG50: A Galaxy Cluster Forms
+## NGC 7635: The Bubble Nebula
 
-26th July 2026
+27th July 2026
 
 ### Explanation: 
 
-How do clusters of galaxies form?  Since our universe moves too slowly to watch, faster-moving computer simulations are created to help find out.  One famous effort is TNG50 from IllustrisTNG, an upgrade of the famous Illustris Simulation. The first part of the featured video tracks cosmic gas (mostly hydrogen) as it evolves into galaxies and galaxy clusters from the early universe to today, with brighter colors marking faster moving gas.  As the universe matures, gas falls into gravitational wells, galaxies forms, galaxies spin, galaxies collide and merge, all while black holes form in galaxy centers and expel surrounding gas at high speeds. The second half of the video switches to tracking stars, showing a galaxy cluster coming together, complete with stellar streams.  The outflow from black holes in TNG50 is surprisingly complex and details are being compared with our real universe.  Studying how gas coalesced in the early universe helps humanity better understand how our Earth, Sun, and Solar System originally formed.   Explore the Universe: Random APOD Generator
+What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. Taken from Krakow, Poland, the featured view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.
 
-> _Last Updated: 7/26/2026, 8:58:33 AM (in GMT)_
+> _Last Updated: 7/27/2026, 6:04:41 AM (in GMT)_
