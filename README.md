@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2607/DARK-DOODAD_2048.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2608/FullMoon28-7-2026BrankoNadj.jpg)
 
-## NGC 4372 and the Dark Doodad
+## Buck Moon and Belt of Venus
 
-31st July 2026
+1st August 2026
 
 ### Explanation: 
 
-The Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. A dusty interstellar cloud, it's seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across this telescopic field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. About 700 light-years distant and over 30 light-years long, the Dark Doodad's well defined silhouette belongs to the potentially star-forming Musca molecular cloud. The dusty Dark Doodad's delightfully alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback.
+The Buck Moon is a traditional name for the full moon of July. In this colorful Adriatic sea and skyscape captured on July 28 from Krk Island along the coast of Croatia, a full Buck Moon is just rising over distant mountains. Since a full moon rises as the Sun sets, Earth's shadow also rises in the twilight scene, a diffuse gray band extending above the mountainous southeastern horizon. Above Earth's shadow band is the pinkish antitwilight arch. That subtly tinted band of backscattered sunlight is more widely known as the Belt of Venus. But as it shares the eastern horizon with the atmospheric shadow of Earth and Belt of Venus, this full Buck Moon seems to set the stage for the New Moon to come. The New Moon of August 12 will cast its shadow on planet Earth in a much anticipated total solar eclipse.
 
-> _Last Updated: 7/31/2026, 9:24:22 AM (in GMT)_
+> _Last Updated: 8/1/2026, 5:40:40 AM (in GMT)_
