@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2608/saturn_spokes.gif)
+![NASA APOD](https://apod.nasa.gov/apod/image/2608/SunFlowers_NSO_1901.jpg)
 
-## Spokes on Saturn's B Ring
+## New Sharpest Image of the Sun Uncovers Instability
 
-5th August 2026
+6th August 2026
 
 ### Explanation: 
 
-Don’t get spooked by Saturn’s ghostly spokes! Today we feature a nearly two-hour timelapse of Saturn and its rings looping forwards and backwards. A day on Saturn is only 10 hours long, so two hours of observation covers quite a bit of its rotation. If you look closely, a ghoulish shadow appears and disappears as Saturn’s B ring rotates. Decades of observation with Voyager 2, Cassini, and Hubble show the appearance of Saturn’s spokes varies with the planet’s seasons. Like Earth, Saturn’s spin axis is tilted compared to the plane of its orbit around the Sun. During Saturn’s equinox, the rings are less tilted away from the Sun and the planet receives more evenly distributed sunlight and solar wind. Although their origin is still uncertain, Saturn’s spokes may be shadows of and reflections off of dust and ice levitating above the rings caused by electromagnetic interactions between the solar wind and the planet’s magnetic field.   Find dark skies and look up this August to witness the Perseid meteor shower uninhibited by the Moon!
+What does the new sharpest image of our Sun show? Instability. To be clear, a certain kind of interactive process called the Kelvin-Helmholtz instability (KHI). This instability can create waves and swirls when two streams flow past each other -- in this case variable streams of solar magnetic plasma. Long hypothesized to occur on the Sun's surface, KHI streaks and swirls were confirmed in just-released dramatic high-resolution images taken recently by the Inouye Solar Telescope in Hawaii, USA.  The featured false-yellow image, actually taken in deep blue, is the highest resolution image yet of the Sun in visible light. It spans about the radius of the Earth, but its finest details are city sized.  Visible are several smooth tops of changing solar granules, while the edges of the flower-like structures have been found to harbor multiple KHI swirls.  Future research may investigate how the KHI helps move energy, magnetic fields, and may even heat the surrounding solar corona.
 
-> _Last Updated: 8/5/2026, 9:19:18 AM (in GMT)_
+> _Last Updated: 8/6/2026, 5:33:09 AM (in GMT)_
