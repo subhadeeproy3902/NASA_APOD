@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://apod.nasa.gov/apod/image/2608/Comet220P_SA_4104.jpg)
 
-## Cassini Approaches Saturn
+## Comet 220P in Outburst
 
 24th August 2026
 
 ### Explanation: 
 
-What would it look like to approach the grand planet Saturn? One doesn't have to just imagine -- the Cassini spacecraft did just this in 2004, recording thousands of images along the way, and hundreds of thousands more since entering orbit. Some of Cassini's early images have been digitally tweaked, cropped, and compiled into the featured inspiring video which is part of a larger IMAX movie project named In Saturn's Rings.  In the concluding sequence, Saturn looms increasingly large on approach as cloudy Titan swoops below. With Saturn whirling around in the background, Cassini is next depicted flying over Mimas, with large Herschel Crater clearly visible. Saturn's majestic rings then take over the show as Cassini crosses Saturn's thin ring plane. Dark shadows of the ring appear on Saturn itself. Finally, the enigmatic ice-geyser moon Enceladus appears in the distance and then is approached just as the video clip ends. After more than a decade of exploration and discovery, the Cassini spacecraft ran low on fuel in 2017 was directed to enter Saturn's atmosphere, where it surely melted.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
+Comet 220P is unexpectedly bright. Normally, periodic Comet 220P/McNaught is so dim that to see it requires a telescope. Two surprising outbursts this year, however, have made it about 20,000 times brighter than usual, so that it is now visible with binoculars and long-duration camera exposures. As expected, Comet 220P continues to orbit the Sun between Mars and Jupiter with a period of over 5 years.  The featured long duration exposure, taken 10 days ago from South Africa, shows the comet's bright green head and short dust tail.  Reasons for Comet 220P's impressive outbursts are unknown but could be caused by the release of built-up subsurface gas or comet quakes.  Comet 220P will pass about one Earth-Sun distance from the Earth in October, after which it is expected to fade quickly  as it begins its return to the far part of its orbit.   APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
-> _Last Updated: 8/24/2026, 3:31:46 AM (in GMT)_
+> _Last Updated: 8/24/2026, 5:19:38 AM (in GMT)_
