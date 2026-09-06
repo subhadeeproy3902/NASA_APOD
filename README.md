@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2609/2026Eclipse_WB57GoPro_Totality_H264_Abridged.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2609/PlutoEnhancedHiRes_NewHorizons_5000.jpg)
 
-## Chasing the Moon's Shadow
+## Pluto in Enhanced Color
 
-5th September 2026
+6th September 2026
 
 ### Explanation: 
 
-Chasing the shadow of a New Moon, NASA’s WB-57F high altitude research aircraft took to the skies off the coast of Iceland on August 12 to observe a total solar eclipse. At 50,000 feet the aircraft was piloted along the precisely determined path of totality to maximize its time in the Moon’s shadow. A suite of high-resolution cameras on board was able to record eclipse data from above the clouds, dust, and atmospheric water vapor that interfere with observations made closer to the ground. This view from the cockpit, taken from an inflight video, captures the solar corona emerging at the beginning of totality. The sky appears dark in the shadow of the Moon. Venus is shining left of center in the video frame, while Jupiter and Mercury are just visible to the right of the eclipsed Sun. But the sky is bright along the distant horizon below, beyond the reach of the Moon's shadow.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+Pluto is more colorful than we can see. Color data and high-resolution images of our Solar System's most famous dwarf planet, taken by the robotic New Horizons spacecraft during its flyby in 2015 July, have been digitally combined to give an enhanced-color view of this ancient world sporting an unexpectedly young surface. The featured enhanced color image is not only esthetically pretty but scientifically useful, making surface regions of differing chemical composition visually distinct. For example, the light-colored heart-shaped Tombaugh Regio on the lower right is clearly shown here to be divisible into two regions that are geologically different, with the leftmost lobe, Sputnik Planitia, also appearing unusually smooth. After Pluto, New Horizons continued on, shooting  past asteroid Arrokoth in 2019 with enough speed to escape our Solar System completely.
 
-> _Last Updated: 9/5/2026, 11:58:42 AM (in GMT)_
+> _Last Updated: 9/6/2026, 7:15:59 AM (in GMT)_
