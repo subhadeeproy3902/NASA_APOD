@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2609/ElementOrigins2_svs_6000.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2609/MoonVenus_Mariat_1410.jpg)
 
-## Where Your Elements Came From
+## A Daytime Eclipse: Moon Occults Venus
 
-14th September 2026
+15th September 2026
 
 ### Explanation: 
 
-The hydrogen in your body and present in every molecule of water came from the Big Bang.  There are no other appreciable sources of hydrogen in the universe.  The carbon in your body was made by nuclear fusion in the interior of stars, as was the oxygen.  Much of the iron in your body was made during supernovas of stars that occurred long ago and far away.  The gold in your jewelry was likely made from neutron stars during collisions that may have been visible as short-duration gamma-ray bursts or gravitational wave events. Elements like phosphorus and copper are present in our bodies in only small amounts but are essential to the functioning of all known life.  The featured periodic table is color coded to indicate humanity's best guess as to the nuclear origin of all known elements.  The sites of nuclear creation of some elements, such as copper, are not really well known and are continuing topics of observational and computational research.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+There was something behind the clouds.  Upon close inspection, it was the Moon, which was hard to see yesterday around noon above the small village of Cessy, France.  But soon, it was not only the Moon. As expected, a bright dot suddenly appeared from behind the Moon -- the planet Venus far in the distance.  Captured in the single featured exposure, both appeared to show a crescent phase.  The Moon's crescent was quite slight -- with only about 10 percent of its face illuminated by the Sun. In contrast, Venus's crescent was more full -- showing about 25 percent illumination. Venus appeared brighter because it is nearer the Sun and because its clouds are more reflective than the dark lunar surface. An occultation of Venus by the Moon is visible to only about 10 percent of the Earth, but in yesterday's event even most of that was experiencing daytime.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
 
-> _Last Updated: 9/14/2026, 3:11:42 PM (in GMT)_
+> _Last Updated: 9/15/2026, 7:58:48 AM (in GMT)_
