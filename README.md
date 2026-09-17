@@ -13,4 +13,4 @@
 
 This treasure chest is full of stars.   The featured image was obtained with NASA's James Webb Space Telescope and shows a dust pilar in the Carina Nebula inside our Galaxy, roughly 7500 light-years away.   It is formed by interstellar gas and dust, and shaped by powerful stellar winds and radiation form neighboring stars like the nearby Eta Carinae stellar system which is more luminous than 5 million suns.   The star formation inside the pillar is excavating its head, creating the open lid of the chest.     Astronomers estimate that there are about 70 stars in a compact cluster inside the pillar.   This cluster is now thought to be only around 1.3 million years old.   Its bounty of young stars includes a massive star approximately 19 times as massive as the Sun.   More massive stars are rarer, shine brighter and evolve faster than less massive stars.   They are the shiniest jewels in the treasure chest.     APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
-> _Last Updated: 9/17/2026, 7:56:25 AM (in GMT)_
+> _Last Updated: 9/17/2026, 1:43:14 PM (in GMT)_
