@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2609/mcgetchin_after.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2609/5SNR_Auriga_2000.jpg)
 
-## A New Lunar Crater: McGetchin
+## The Ghosts of Five Supernovas
 
-23rd September 2026
+24th September 2026
 
 ### Explanation: 
 
-A once-in-a-lifetime crater has appeared on the Moon! A comet or asteroid roughly the size of a humpback whale (approximately 10-20 meters, 30-60 feet) crashed into the Moon sometime between April and May of 2024. The Lunar Reconnaissance Orbiter (LRO), with its monthly monitoring of the Moon, captured today’s images of the lunar surface before and after the event. The resulting crater, named after Apollo-era lunar scientist McGetchin, is two soccer fields across. Craters of this size are only expected once every 132 years! Follow up thermal imaging revealed a large cold spot that surrounds the warm crater. Surface impacts will puff up the loose lunar sediment, or regolith, making it less dense and harder to retain heat. This event affected an area much larger than the visible crater, which will inform humanity’s understanding of surface impacts and the evolution of the Moon’s surface. It also reminds us all to be thankful for Earth's atmosphere.   APOD's email for image submissions has changed. Please see: APOD Submissions.  APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+The ghosts of five supernovas haunt this extraordinary image.   It was acquired at Oukaïmeden Observatory in Morocco with approximately 200 hours of observations and shows a large patch of the sky, equivalent to the area of one thousand full moons tiled together, in the constellation of Auriga (the charioteer).   From left to right, the five supernova remnants visible across the field are G181.1+9.5, G182.4+4.3, G179.0+2.6, G180.0−1.7 (Sh2-240, the Spaghetti Nebula), and G178.2−4.2.   They are highlighted in the annotated image, together with open cluster M37 and the Tadpole Nebula.   As each explosion expanded into space, it created a growing shell of shocked gas and delicate filamentary structures shown in red (hydrogen) and blue (oxygen), respectively.    These ancient stellar explosions happened independently; they are at various distances up to about several thousands of light-years away from Earth and have estimated ages up to tens of thousands of years old.   Early humans may have witnessed them as bright new stars, fading over weeks or months.     APOD's email for image submissions has changed. Please see: APOD Submissions.    APOD's main NASA site is moving : From apod.nasa.gov to science.nasa.gov/apod
 
-> _Last Updated: 9/23/2026, 1:48:10 PM (in GMT)_
+> _Last Updated: 9/24/2026, 7:46:08 AM (in GMT)_
