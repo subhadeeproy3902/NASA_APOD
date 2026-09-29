@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](https://apod.nasa.gov/apod/image/2609/CosmicLatte_jhu_960.jpg)
+![NASA APOD](https://apod.nasa.gov/apod/image/2609/Shrimp_Pawel_2048.jpg)
 
-## Cosmic Latte: The Average Color of the Universe
+## Sh2-188: The Shrimp Nebula
 
-28th September 2026
+29th September 2026
 
 ### Explanation: 
 
-What color is the universe?  More precisely, if the entire sky were smeared out, what color would the final mix be?  This whimsical question came up when trying to determine what stars are commonplace in nearby galaxies. The answer, depicted here, is a conditionally perceived shade of beige. In computer parlance: #FFF8E7.  To determine this, astronomers computationally averaged the light emitted by one of the larger samples of galaxies analyzed: the 200,000 galaxies of the 2dF Galaxy Redshift Survey.  The resulting cosmic spectrum has some emission in all parts of the electromagnetic spectrum, but a single perceived composite color.  This color has become much less blue over the past 10 billion years, indicating that redder stars are becoming more prevalent.  In a contest to better name the color, notable entries included skyvory, univeige, and the winner: cosmic latte.   APOD's email for image submissions has changed. Please see: APOD Submissions  Tomorrow: APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+What causes the swirl in the Shrimp Nebula? Its high speed is likely.  What is sure is that Sh2-188 is one of the larger planetary nebulas on the night sky, by angular size, spanning about half the diameter of the Moon.  Moreover, the white-dwarf core -- leftover from the Sun-like star that shed its outer atmosphere -- is moving unusually fast through interstellar space, creating a bow shock most visible on the upper left that is similar to a boat plowing through water.  Although faint, the  Shrimp Nebula glows also by compressing and brightening gas on its leading edge.  The featured image was taken in the light of hydrogen, sulfur, and oxygen by a backyard telescope in Krakow, Poland and then digitally adjusted to approximate the nebula's true colors.    APOD's email for image submissions has changed. Please see: APOD Submissions  APOD's main NASA site has moved: From apod.nasa.gov to science.nasa.gov/apod
 
-> _Last Updated: 9/28/2026, 8:54:24 AM (in GMT)_
+> _Last Updated: 9/29/2026, 8:56:54 AM (in GMT)_
