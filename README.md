@@ -7,10 +7,10 @@
 
 ## NASA Science
 
-7th November 2026
+9th November 2026
 
 ### Explanation: 
 
-De Gerlache-Kocher massif looms on the visible horizon in this close-up of the edge of the Moon. The mountainous formation rises about 4 kilometers above its surroundings and is located very close to the lunar south pole. Boasting permanently shadowed crater floors that likely contain deposits of water ice and peaks that receive almost continuous sunlight for solar power generation, the south polar region is consider a prime location for the first human settlement on the Moon. In fact, De Gerlache-Kocher massif itself has been consider as a potential landing site for future crewed Artemis missions to the Moon. The remarkable telescopic image of the massif at the lunar limb was captured on October 31. Then, a favorable libration angle or lunar wobble enhanced this oblique view across the Moon's south pole.Tomorrow's picture: meteoric						
+Does the blue nebula look like the head of a witch? The nebula is known popularly as the Witch Head Nebula because, it is said, the nebula's shape resembles a Halloween-style caricature of a witch's head. Exactly how, though, can be a topic of imaginative speculation. What is clear is that IC 2118 is about 50 light-years across and made of gas and dust that points to -- because it has been partly eroded by -- the nearby star Rigel. One of the brighter stars in the constellation Orion, Rigel lies just below the center of the featured image. The blue color of the Witch Head Nebula and is caused not only by Rigel's intense blue starlight but also because the dust grains scatter blue light more efficiently than red. The same physical process causes Earth's daytime sky to appear blue, although the scatterers in planet Earth's atmosphere are molecules of nitrogen and oxygen.Tomorrow's picture: suddenly Saturn						
 
-> _Last Updated: 11/7/2026, 9:08:06 AM (in GMT)_
+> _Last Updated: 11/9/2026, 10:09:56 AM (in GMT)_
