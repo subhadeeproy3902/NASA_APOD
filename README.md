@@ -3,14 +3,14 @@
 
   Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.
 
-![NASA APOD](undefined)
+![NASA APOD](https://science.nasa.gov/wp-content/themes/nasa-child/assets/images/nasa-logo@2x.png)
 
-## undefined
+## NASA Science
 
-24th November 2026
+25th November 2026
 
 ### Explanation: 
 
-No explanation available.
+To view this video please enable JavaScript, and consider upgrading to a web browser that 					supports HTML5 vide
 
-> _Last Updated: 11/24/2026, 12:50:57 PM (in GMT)_
+> _Last Updated: 11/25/2026, 11:38:01 AM (in GMT)_
